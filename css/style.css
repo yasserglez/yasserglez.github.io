@@ -68,6 +68,7 @@ a:hover {
 }
 
 /* Header */
+
 @-moz-keyframes header { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 @-webkit-keyframes header { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 @-o-keyframes header { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
@@ -79,7 +80,7 @@ a:hover {
 @-ms-keyframes nav-icons { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 @keyframes nav-icons { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 
-#header {
+#about {
 	-moz-animation: header 1s 0.25s forwards;
 	-webkit-animation: header 1s 0.25s forwards;
 	-o-animation: header 1s 0.25s forwards;
@@ -105,24 +106,24 @@ a:hover {
 	width: 90%;
 }
 
-#header h1 {
+#about h1 {
 	font-size: 4.35em;
 	font-weight: 900;
 	letter-spacing: -0.035em;
 	line-height: 1em;
 }
 
-#header p {
+#about p {
 	font-size: 1.25em;
 	margin: 0.75em 0 0.25em 0;
 	opacity: 0.75;
 }
 
-#header nav {
+#about nav {
 	margin: 1.5em 0 0 0;
 }
 
-#header nav li {
+#about nav li {
 	-moz-animation: nav-icons 0.5s ease-in-out forwards;
 	-webkit-animation: nav-icons 0.5s ease-in-out forwards;
 	-o-animation: nav-icons 0.5s ease-in-out forwards;
@@ -147,7 +148,7 @@ a:hover {
 	width: 5.35em;
 }
 
-#header nav li:nth-child(1) {
+#about nav li:nth-child(1) {
 	-moz-animation-delay: 0.75s;
 	-webkit-animation-delay: 0.75s;
 	-o-animation-delay: 0.75s;
@@ -155,7 +156,7 @@ a:hover {
 	animation-delay: 0.75s;
 }
 
-#header nav li:nth-child(2) {
+#about nav li:nth-child(2) {
 	-moz-animation-delay: 1.0s;
 	-webkit-animation-delay: 1.0s;
 	-o-animation-delay: 1.0s;
@@ -163,7 +164,7 @@ a:hover {
 	animation-delay: 1.0s;
 }
 
-#header nav li:nth-child(3) {
+#about nav li:nth-child(3) {
 	-moz-animation-delay: 1.25s;
 	-webkit-animation-delay: 1.25s;
 	-o-animation-delay: 1.25s;
@@ -171,7 +172,7 @@ a:hover {
 	animation-delay: 1.25s;
 }
 
-#header nav li:nth-child(4) {
+#about nav li:nth-child(4) {
 	-moz-animation-delay: 1.5s;
 	-webkit-animation-delay: 1.5s;
 	-o-animation-delay: 1.5s;
@@ -179,7 +180,7 @@ a:hover {
 	animation-delay: 1.5s;
 }
 
-#header nav li:nth-child(5) {
+#about nav li:nth-child(5) {
 	-moz-animation-delay: 1.75s;
 	-webkit-animation-delay: 1.75s;
 	-o-animation-delay: 1.75s;
@@ -187,7 +188,7 @@ a:hover {
 	animation-delay: 1.75s;
 }
 
-#header nav li:nth-child(6) {
+#about nav li:nth-child(6) {
 	-moz-animation-delay: 2.0s;
 	-webkit-animation-delay: 2.0s;
 	-o-animation-delay: 2.0s;
@@ -195,7 +196,7 @@ a:hover {
 	animation-delay: 2.0s;
 }
 
-#header nav li:nth-child(7) {
+#about nav li:nth-child(7) {
 	-moz-animation-delay: 2.25s;
 	-webkit-animation-delay: 2.25s;
 	-o-animation-delay: 2.25s;
@@ -203,7 +204,7 @@ a:hover {
 	animation-delay: 2.25s;
 }
 
-#header nav li:nth-child(8) {
+#about nav li:nth-child(8) {
 	-moz-animation-delay: 2.5s;
 	-webkit-animation-delay: 2.5s;
 	-o-animation-delay: 2.5s;
@@ -211,7 +212,7 @@ a:hover {
 	animation-delay: 2.5s;
 }
 
-#header nav li:nth-child(9) {
+#about nav li:nth-child(9) {
 	-moz-animation-delay: 2.75s;
 	-webkit-animation-delay: 2.75s;
 	-o-animation-delay: 2.75s;
@@ -219,7 +220,7 @@ a:hover {
 	animation-delay: 2.75s;
 }
 
-#header nav li:nth-child(10) {
+#about nav li:nth-child(10) {
 	-moz-animation-delay: 3.0s;
 	-webkit-animation-delay: 3.0s;
 	-o-animation-delay: 3.0s;
@@ -227,14 +228,14 @@ a:hover {
 	animation-delay: 3.0s;
 }
 
-#header nav a {
+#about nav a {
 	-webkit-tap-highlight-color: transparent;
 	-webkit-touch-callout: none;
 	border: 0;
 	display: inline-block;
 }
 
-#header nav a:before {
+#about nav a:before {
 	-moz-transition: all 0.2s ease-in-out;
 	-webkit-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
@@ -252,25 +253,25 @@ a:hover {
 	width: 2.5em;
 }
 
-#header nav a:hover {
+#about nav a:hover {
 	font-size: 1.1em;
 }
 
-#header nav a:hover:before {
+#about nav a:hover:before {
 	background-color: rgba(255, 255, 255, 0.175);
 	color: black;
 }
 
-#header nav a:active {
+#about nav a:active {
 	font-size: 0.95em;
 	background: none;
 }
 
-#header nav a:active:before {
+#about nav a:active:before {
 	background-color: rgba(255, 255, 255, 0.35);
 	color: black;
 }
 
-#header nav a span {
+#about nav a span {
 	display: none;
 }

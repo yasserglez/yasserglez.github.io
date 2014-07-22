@@ -16,22 +16,22 @@ body, input, select, textarea {
 
 /* Header */
 
-#header h1 {
+#about h1 {
 	font-size: 2.5em;
 }
 
-#header p {
+#about p {
 	font-size: 1em;
 }
 
-#header nav {
+#about nav {
 	font-size: 1em;
 }
 
-#header nav a:hover {
+#about nav a:hover {
 	font-size: 1em;
 }
 
-#header nav a:active {
+#about nav a:active {
 	font-size: 1em;
 }

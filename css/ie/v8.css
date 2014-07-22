@@ -6,13 +6,13 @@
 
 /* Header */
 
-#header nav a {
+#about nav a {
 	position: relative;
 	border: solid 1px black;
 	border-radius: 100%;
 	-ms-behavior: url("css/ie/PIE.htc");
 }
 
-#header nav a:before {
+#about nav a:before {
 	border: 0;
 }
