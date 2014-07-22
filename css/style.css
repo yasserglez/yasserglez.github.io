@@ -10,7 +10,7 @@
 /* Basic */
 
 body, input, select, textarea {
-	color: black;
+	color: #444;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 16pt;
 	font-weight: 300 !important;
@@ -108,8 +108,9 @@ a:hover {
 #about img {
 	width: 20%;
 	border-radius: 100%;
-	border: solid 1px black;
+	border: solid 1px #666;
 	margin-bottom: 1em;
+	opacity: 0.9;
 }
 
 #about h1 {
@@ -121,6 +122,7 @@ a:hover {
 #about p {
 	font-size: 1.5em;
 	margin: 0.75em 10% 0.25em 10%;
+	color: #666;
 }
 
 #about nav {
@@ -245,16 +247,14 @@ a:hover {
 	-o-transition: all 0.2s ease-in-out;
 	-ms-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
-	border-radius: 100%;
-	border: solid 1px black;
 	display: block;
-	font-size: 1.75em;
-	height: 2.5em;
-	line-height: 2.5em;
+	font-size: 2.0em;
+	height: 2.0em;
+	line-height: 2.0em;
 	position: relative;
 	text-align: center;
 	top: 0;
-	width: 2.5em;
+	width: 2.0em;
 }
 
 #about nav a:hover {
