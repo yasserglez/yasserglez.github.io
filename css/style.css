@@ -4,17 +4,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700");
 @import url("font-awesome.css");
 
 /* Basic */
 
 body, input, select, textarea {
 	color: black;
-	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 15pt;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 16pt;
 	font-weight: 300 !important;
-	letter-spacing: -0.025em;
 	line-height: 1.75em;
 }
 
@@ -107,22 +106,21 @@ a:hover {
 }
 
 #about img {
-	width: 25%;
+	width: 20%;
 	border-radius: 100%;
 	border: solid 1px black;
+	margin-bottom: 1em;
 }
 
 #about h1 {
-	font-size: 4.35em;
-	font-weight: 900;
-	letter-spacing: -0.035em;
+	font-size: 2.5em;
+	font-weight: 700;
 	line-height: 1em;
 }
 
 #about p {
-	font-size: 1.25em;
-	margin: 0.75em 0 0.25em 0;
-	opacity: 0.75;
+	font-size: 1.5em;
+	margin: 0.75em 10% 0.25em 10%;
 }
 
 #about nav {
