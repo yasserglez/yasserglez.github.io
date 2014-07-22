@@ -106,6 +106,12 @@ a:hover {
 	width: 90%;
 }
 
+#about img {
+	width: 25%;
+	border-radius: 100%;
+	border: solid 1px black;
+}
+
 #about h1 {
 	font-size: 4.35em;
 	font-weight: 900;
