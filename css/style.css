@@ -10,7 +10,7 @@
 /* Basic */
 
 body, input, select, textarea {
-	color: #444;
+	color: #666;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 16pt;
 	font-weight: 300 !important;
@@ -18,7 +18,7 @@ body, input, select, textarea {
 }
 
 body {
-	background: white;
+	background: #fff;
 	overflow: hidden;
 }
 
@@ -66,7 +66,7 @@ a:hover {
 	width: 1px;
 }
 
-/* Header */
+/* About */
 
 @-moz-keyframes header { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
 @-webkit-keyframes header { 0% { -moz-transform: translate3d(0,1em,0); -webkit-transform: translate3d(0,1em,0); -o-transform: translate3d(0,1em,0); -ms-transform: translate3d(0,1em,0); transform: translate3d(0,1em,0); opacity: 0; } 100% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); opacity: 1; } }
@@ -117,6 +117,7 @@ a:hover {
 	font-size: 2.5em;
 	font-weight: 700;
 	line-height: 1em;
+	color: #444;
 }
 
 #about p {
@@ -262,8 +263,7 @@ a:hover {
 }
 
 #about nav a:hover:before {
-	background-color: rgba(255, 255, 255, 0.175);
-	color: black;
+	color: #444;
 }
 
 #about nav a:active {
@@ -272,8 +272,7 @@ a:hover {
 }
 
 #about nav a:active:before {
-	background-color: rgba(255, 255, 255, 0.35);
-	color: black;
+	color: #444;
 }
 
 #about nav a span {

@@ -4,12 +4,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Header */
+/* About */
 
 #about nav a {
 	position: relative;
-	border: solid 1px black;
-	border-radius: 100%;
 	-ms-behavior: url("css/ie/PIE.htc");
 }
 
