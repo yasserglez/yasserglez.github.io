@@ -1,27 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Yasser Gonzalez Fernandez</title>
-	<meta name="description" content="Personal Website of Yasser Gonzalez Fernandez">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Personal Website of Yasser Gonzalez Fernandez">
+	<meta name="author" content="Yasser Gonzalez Fernandez">
+	<title>Yasser Gonzalez Fernandez</title>
 	<link rel="canonical" href="http://yglezfdez.com">
-	<link rel="apple-touch-icon-precomposed" href="img/favicon-152.png">
-
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-	<script src="js/skel.js"></script>
-	<script src="js/init.js"></script>
-	<noscript>
-		<link rel="stylesheet" href="css/skel.css" />
-		<link rel="stylesheet" href="css/style.css" />
-		<link rel="stylesheet" href="css/style-wide.css" />
-		<link rel="stylesheet" href="css/style-noscript.css" />
-	</noscript>
-	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-
+	<link rel="apple-touch-icon" href="img/favicon-152.png">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/main.css">
+	<!--[if lt IE 9]>
+		<script src="http://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="http://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -31,28 +25,39 @@
 		ga('send', 'pageview');
 	</script>
 </head>
-<body class="loading">
-	<div id="main">
-		<header id="about">
-			<img src="img/yglezfdez.jpg" alt="A photo of Yasser Gonzalez Fernandez">
-			<h1>Yasser Gonzalez Fernandez</h1>
-			<p>I was born in 1987 and I live in Toronto, Canada. I'm passionate about 
-			designing, implementing and applying algorithms to solve computationally hard 
-			problems and draw conclusions from data within the areas of artificial 
-			intelligence, optimization, machine learning and data mining. I hold a 
-			bachelor's degree with first-class honours in Computer Science and I'm close 
-			to completing a master's program on Information Systems &amp; Technology.</p>
-			<!-- You can <a href="cv.pdf" title="Download my CV in PDF" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'CV');" target="_blank">download my CV</a> for a list of 
-			publications, open-source software I have developed and more detailed skills.</p> -->
-			<nav><ul>
-				<!-- <li><a href="cv.pdf" title="Download my CV in PDF" class="fa fa-file-text" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'CV');" target="_blank"><span>CV</span></a></li> -->
-				<!-- <li><a href="mailto:contact@yglezfdez.com" title="Send me an email" class="fa fa-envelope" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'Email');" target="_blank"><span>Email</span></a></li> -->
-				<li><a href="http://twitter.com/yglezfdez" title="Follow me on Twitter" class="fa fa-twitter" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'Twitter');" target="_blank"><span>Twitter</span></a></li>
-				<li><a href="http://github.com/yglezfdez" title="Follow me on GitHub" class="fa fa-github" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'GitHub');" target="_blank"><span>GitHub</span></a></li>
-				<li><a href="http://linkedin.com/in/yglezfdez" title="Connect with me on LinkedIn" class="fa fa-linkedin" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'LinkedIn');" target="_blank"><span>LinkedIn</span></a></li>
-				<li><a href="http://researchgate.net/profile/Yasser_Gonzalez-Fernandez" title="Follow me on ResearchGate" class="fa fa-graduation-cap" onclick="ga('send', 'event', 'Outbound Links', 'Click', 'ResearchGate');" target="_blank"><span>ResearchGate</span></a></li>
-			</ul></nav>
-		</header>
-	</div>
-</body>
+<body>
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<section id="about-me">
+		<h1 class="text-hide">Yasser Gonzalez Fernandez</h1>
+		<img src="img/yglezfdez.jpg" alt="A photo of Yasser Gonzalez Fernandez" class="img-circle" title="Yasser Gonzalez Fernandez">
+		<h2>Hi, I'm Yasser.</h2>
+		<p id="intro" class="lead">
+		I live in Toronto, Canada. I'm passionate about the design and implementation 
+		of algorithms to solve computationally hard problems and draw conclusions 
+		from data within the areas of artificial intelligence, optimization, 
+		machine learning and data mining. I hold a bachelor's degree with 
+		first-class honours in Computer Science and I'm close to completing a 
+		master's program on Information Systems &amp; Technology. You can 
+        <a href="cv.pdf" title="Download my resume" onclick="ga('send', 'event', 'CV');" target="_blank">download my CV</a> 
+        for a list of publications, open-source software I have developed and more information.
+		</p>
+		<nav id="social-icons"><ul>
+			<li><a href="http://twitter.com/yglezfdez" title="Follow me on Twitter" onclick="ga('send', 'event', 'Twitter');" target="_blank"><i class="fa fa-twitter"></i><span class="text-hide">Twitter</span></a></li>
+			<li><a href="http://github.com/yglezfdez" title="Follow me on GitHub" onclick="ga('send', 'event', 'GitHub');" target="_blank"><i class="fa fa-github"></i><span class="text-hide">GitHub</span></a></li>
+			<li><a href="http://linkedin.com/in/yglezfdez" title="Connect with me on LinkedIn" onclick="ga('send', 'event', 'LinkedIn');" target="_blank"><i class="fa fa-linkedin"></i><span class="text-hide">LinkedIn</span></a></li>
+			<li><a href="http://researchgate.net/profile/Yasser_Gonzalez-Fernandez" title="Follow me on ResearchGate" onclick="ga('send', 'event', 'ResearchGate');" target="_blank"><i class="fa fa-graduation-cap"></i><span class="text-hide">ResearchGate</span></a></li>
+		</ul></nav>
+		<p id="contact-me">
+			<a href="mailto:me@yglezfdez.com" title="Send me an email" class="btn btn-primary btn-lg" 
+			   onclick="ga('send', 'event', 'Email');" target="_blank"><i class="fa fa-envelope"></i>Contact Me</a>
+		</p>
+	</section>
+	</div> <!-- col-md-12 -->
+	</div> <!-- row -->
+	</div> <!-- container --> 
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+    <!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script> -->
+  </body>
 </html>
