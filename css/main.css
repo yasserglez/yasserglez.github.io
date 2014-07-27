@@ -1,15 +1,15 @@
 
-@import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url("http://fonts.googleapis.com/css?family=Roboto");
+@import url("http://fonts.googleapis.com/css?family=Crimson+Text");
 
 body {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
+	font-family: 'Crimson Text', serif;
 	background-color: #fff;
 	color: #555;
 }
 
 h2 {
-	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
 }
 
 #about-me {
@@ -65,13 +65,14 @@ h2 {
 }
 
 #contact-me .btn {
-  background-color: #555;
-  border-color: #555;
+  font-family: 'Roboto', sans-serif;
+  background-color: #4490fc;
+  border-color: #4490fc;
   color: #fff;
 }
 
 #contact-me .btn-primary:hover, 
 #contact-me .btn-primary:focus { 
-  background-color: #666;
-  border-color: #666;
+  background-color: #5399fc;
+  border-color: #5399fc;
 }
