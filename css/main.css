@@ -18,7 +18,7 @@ h2 {
 	text-align: center;
 }
 
-#about-me img {
+#headshot {
 	max-width: 25%;
 	border: solid 1px #666;
 	opacity: 0.9;
@@ -51,8 +51,14 @@ h2 {
 
 #social-icons a:hover, 
 #social-icons a:focus {
-	color: #666;
+	color: #555;
 }
+
+#social-icons a img {
+	width: 40px;
+	padding-bottom: 20px;
+}
+
 
 #contact-me i {
 	margin-right: 0.25em; 
@@ -67,6 +73,6 @@ h2 {
 
 #contact-me .btn-primary:hover, 
 #contact-me .btn-primary:focus { 
-  background-color: #7aa6eb;
-  border-color: #7aa6eb;
+  background-color: #679aeb;
+  border-color: #679aeb;
 }
