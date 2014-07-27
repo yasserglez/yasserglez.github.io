@@ -14,25 +14,19 @@ h2 {
 
 #about-me {
 	margin: 0 auto;
-	max-width: 65%;
+	max-width: 60%;
 	text-align: center;
 }
 
 #about-me img {
 	max-width: 25%;
 	border: solid 1px #666;
-	opacity: 0.95;
+	opacity: 0.9;
 }
 
 #intro a {
 	color: #555;
 	text-decoration: underline;
-}
-
-#intro a:hover,
-#intro a:focus,
-#intro a:active {
-	text-decoration: none;
 }
 
 #social-icons ul {
@@ -66,13 +60,13 @@ h2 {
 
 #contact-me .btn {
   font-family: 'Roboto', sans-serif;
-  background-color: #4490fc;
-  border-color: #4490fc;
+  background-color: #679aeb;
+  border-color: #679aeb;
   color: #fff;
 }
 
 #contact-me .btn-primary:hover, 
 #contact-me .btn-primary:focus { 
-  background-color: #5399fc;
-  border-color: #5399fc;
+  background-color: #7aa6eb;
+  border-color: #7aa6eb;
 }
