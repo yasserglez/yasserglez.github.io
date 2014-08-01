@@ -2,6 +2,36 @@
 @import url("http://fonts.googleapis.com/css?family=Roboto");
 @import url("http://fonts.googleapis.com/css?family=Crimson+Text");
 
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.eot");
+    src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon.woff") format("woff"),
+    url("../fonts/flaticon.ttf") format("truetype"),
+    url("../fonts/flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="flaticon-"]:before, 
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, 
+[class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+.flaticon-github17:before {
+	content: "\e000";
+}
+.flaticon-logo:before {
+	content: "\e001";
+}
+.flaticon-researchgate:before {
+	content: "\e002";
+}
+.flaticon-social19:before {
+	content: "\e003";
+}
+
 /* Extra small devices (phones, less than 768px) */
 
 #about-me {
@@ -97,12 +127,10 @@
 #about-me .social-icons ul {
     padding-left: 0;
     list-style: none;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 #about-me .social-icons ul > li {
-    font-size: 2.5em; 
-    margin-left: 1em;
     display: inline-block;
 }
 
@@ -112,16 +140,39 @@
 
 #about-me .social-icons a {
     color: #555;
+    text-decoration: none;
+}
+
+.flaticon-social19:before,
+.flaticon-social19:after {
+    font-size: 32px;
+}
+.flaticon-github17:before,
+.flaticon-github17:after {
+    margin-left: 32px;
+    font-size: 42px;
+    position: relative;
+    top: 2px;
+}
+.flaticon-logo:before,
+.flaticon-logo:after {
+    margin-left: 32px;
+    font-size: 29px;
+    position: relative;
+    top: -4px;
+}
+.flaticon-researchgate:before,
+.flaticon-researchgate:after {
+    margin-left: 32px;
+    font-size: 37px;
+    position: relative;
+    top: 1px;
 }
 
 #about-me .social-icons a:hover, 
 #about-me .social-icons a:focus {
 	color: #555;
-}
-
-#about-me .social-icons a img {
-    width: 40px;
-    padding-bottom: 20px;
+    text-decoration: none;
 }
 
 #about-me .buttons a {
