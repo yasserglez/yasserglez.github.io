@@ -2,12 +2,81 @@
 @import url("http://fonts.googleapis.com/css?family=Roboto");
 @import url("http://fonts.googleapis.com/css?family=Crimson+Text");
 
+/* Extra small devices (phones, less than 768px) */
+
 #about-me {
-    color: #555;
-    margin: 30px auto;
-    max-width: 55%;
+    max-width: 100%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about-me .headshot {
+    max-width: 30%;
+}
+
+#about-me h2 {
+    font-size: 24px;
+}
+
+#about-me .lead {
+    font-size: 18px;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #about-me .headshot {
+        max-width: 20%;
+    }
+
+    #about-me h2 {
+        font-size: 25px;
+    }
+
+    #about-me .lead {
+        font-size: 19px;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    #about-me {
+        max-width: 80%;
+    }
+
+    #about-me .headshot {
+        max-width: 25%;
+    }
+
+    #about-me h2 {
+        font-size: 26px;
+    }
+
+    #about-me .lead {
+        font-size: 20px;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #about-me {
+        max-width: 60%;
+    }
+
+    #about-me h2 {
+        font-size: 30px;
+    }
+
+    #about-me .lead {
+        font-size: 21px;
+    }
+}
+
+#about-me {
     font-family: 'Crimson Text', serif;
     text-align: center;
+    color: #555;
 }
 
 #about-me h2 {
@@ -15,10 +84,9 @@
 }
 
 #about-me .headshot {
-    max-width: 25%;
     border: solid 1px #666;
-    opacity: 0.9;
-    filter: alpha(opacity=90);
+    opacity: 0.95;
+    filter: alpha(opacity=95);
 }
 
 #about-me p a {
