@@ -29,22 +29,27 @@
   <div class="container">
   <div class="row">
   <div class="col-md-12">
-  <section id="about-me">
+  <section id="about-me" itemscope itemtype="http://schema.org/Person">
     <h1 class="text-hide">
-      Yasser Gonzalez Fernandez
-      <img class="img-circle headshot" src="img/yglezfdez.jpg"
-             alt="A photo of Yasser Gonzalez Fernandez" 
-             title="Yasser Gonzalez Fernandez">
+      <span itemprop="givenName">Yasser</span> <span itemprop="familyName">Gonzalez Fernandez</span>
+      <a itemprop="url" href="http://yglezfdez.com" title="Yasser Gonzalez Fernandez">
+        <img class="img-circle headshot" itemprop="image" src="img/yglezfdez.jpg"
+             alt="A photo of Yasser Gonzalez Fernandez">
+      </a>
     </h1>
     <h2>Hi, I'm Yasser.</h2>
     <p class="lead">
-    I'm a computer scientist living in Toronto, Canada. I'm passionate about the
-    design and implementation of algorithms to solve challenging problems and 
-    draw conclusions from data. My interests include the areas of optimization, 
-    machine learning, natural language processing and data analysis &ndash; 
-    many of which fall within the emerging field of data science. I hold a 
-    bachelor's degree in Computer Science and I'm close to completing 
-    a master's program in Information Systems &amp; Technology. You can 
+    I'm a <span itemprop="jobTitle">computer scientist</span> living in 
+    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+      <span itemprop="addressLocality">Toronto</span>, 
+      <span itemprop="addressCountry">Canada</span>
+    </span>. I'm passionate about the design and implementation of algorithms 
+    to solve challenging problems and draw conclusions from data. My interests 
+    include the areas of optimization, machine learning, natural language 
+    processing and data analysis &ndash; many of which fall within the 
+    emerging field of data science. I hold a bachelor's degree in 
+    Computer Science and I'm close to completing a master's program in 
+    Information Systems &amp; Technology. You can 
     <a href="cv.pdf" target="_blank" title="Download my CV"
        onclick="ga('send', 'event', 'Links', 'Click', 'CV');">download my CV</a>
     for a list of publications, open-source software I have developed and 
@@ -75,8 +80,8 @@
     <p class="buttons">
       <a href="mailto:me@yglezfdez.com" target="_blank"
          onclick="ga('send', 'event', 'Links', 'Click', 'Email');"
-         title="Send me an email" class="btn btn-primary btn-lg">
-        <i class="fa fa-envelope"></i>Email Me</a>
+         class="btn btn-primary btn-lg" itemprop="email"
+         title="Send me an email">me@yglezfdez.com</a>
     </p>
     </section>
     </div> <!-- col-md-12 -->
