@@ -19,17 +19,20 @@
     font-family: Flaticon;
     font-style: normal;
 }
-.flaticon-github17:before {
+.flaticon-envelope4:before {
 	content: "\e000";
 }
-.flaticon-logo:before {
+.flaticon-github17:before {
 	content: "\e001";
 }
-.flaticon-researchgate:before {
+.flaticon-logo:before {
 	content: "\e002";
 }
-.flaticon-social19:before {
+.flaticon-researchgate:before {
 	content: "\e003";
+}
+.flaticon-social19:before {
+	content: "\e004";
 }
 
 /* Extra small devices (phones, less than 768px) */
