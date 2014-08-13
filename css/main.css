@@ -195,3 +195,6 @@
     border-color: #679aeb;
 }
 
+#about-me .buttons .btn-lg, .btn-group-lg > .btn {
+    padding: 10px 12px;
+}
