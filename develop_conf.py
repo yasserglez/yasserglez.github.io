@@ -10,8 +10,26 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = 'en'
+
+
+DIRECT_TEMPLATES = ('index', 'archives')
+
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = [
+    ('Home', '/'),
+    ('Resume', '/resume/'),
+]
+
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+ARTICLE_URL = 'articles/{date:%Y}/{slug}/'
+ARTICLE_SAVE_AS = 'articles/{date:%Y}/{slug}/index.html'
+YEAR_ARCHIVE_SAVE_AS = 'articles/{date:%Y}/index.html'
+
 
 # Feed generation disabled when developing
 FEED_ALL_ATOM = None
