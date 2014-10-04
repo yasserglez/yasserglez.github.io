@@ -1,3 +1,3 @@
-Title: Resume
+title: Resume
 
-Hello, this is my resume.
+This is my resume.
