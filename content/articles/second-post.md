@@ -1,6 +1,5 @@
-Title: Second Post
-Slug: second-post
-Date: 2014-10-03 16:25
-Tags: tag2, tag3
+title: Second Post
+date: 2014-01-03 16:25
+tags: tag2, tag3
 
-This is my second post.
+This is the content.
