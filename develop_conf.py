@@ -53,15 +53,6 @@ AUTHOR_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Pagination
-
-DEFAULT_ORPHANS = 8
-DEFAULT_PAGINATION = 10
-PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
-)
-
 # Other settings
 
 TIMEZONE = 'America/Toronto'

@@ -221,28 +221,6 @@ pre {
     background: none;
 }
 
-.pagination-wrapper {
-    padding-top: 6px;
-}
-.pagination-left, .pagination-right {
-    position: absolute;
-    top: 0;
-}
-.pagination {
-    font-size: 80%;
-    text-align: center;
-    position: relative;
-    width: 450px;
-    margin: 0 auto;
-    max-width: 100%;
-}
-.pagination-left {
-    left: 0;
-}
-.pagination-right {
-    right: 0;
-}
-
 .go-top {
     position: fixed;
     bottom: 2em;
