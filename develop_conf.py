@@ -8,10 +8,11 @@ AUTHOR = 'Yasser Gonzalez Fernandez'
 
 # Put a static page in / and the blog in /articles
 
+BASEURL = ''
 SITEURL = '/articles'
+
 PATH = 'content'
 OUTPUT_PATH = 'output/articles'
-THEME = 'themes/pure-single'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -39,6 +40,11 @@ AUTHOR_SAVE_AS = ''
 YEAR_ARCHIVE_SAVE_AS = ''
 MONTH_ARCHIVE_SAVE_AS = ''
 DAY_ARCHIVE_SAVE_AS = ''
+
+# Theme
+
+THEME = 'theme'
+THEME_STATIC_DIR = '../theme'
 
 # Feeds
 
