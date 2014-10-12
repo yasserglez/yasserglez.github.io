@@ -6,12 +6,12 @@ from __future__ import unicode_literals
 SITENAME = "Yasser Gonzalez's Blog"
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
-# Use a static page in /index.html and the blog in articles/
+# Put a static page in / and the blog in /articles
 
-PATH = 'content'
 SITEURL = '/articles'
+PATH = 'content'
 OUTPUT_PATH = 'output/articles'
-THEME_STATIC_DIR = '../theme'
+THEME = 'themes/pure-single'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -30,7 +30,7 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 TAG_URL = '{slug}/'
 TAG_SAVE_AS = '{slug}/index.html'
 
-# Disable everything else:
+# Disable everything else
 
 CATEGORY_URL = ''
 CATEGORY_SAVE_AS = ''
@@ -40,16 +40,12 @@ YEAR_ARCHIVE_SAVE_AS = ''
 MONTH_ARCHIVE_SAVE_AS = ''
 DAY_ARCHIVE_SAVE_AS = ''
 
-# These feeds are disabled when developing:
+# Feeds
 
-FEED_DOMAIN = None
-FEED_ALL_ATOM = None
-FEED_ALL_RSS = None
-TAG_FEED_ATOM = None
-TAG_FEED_RSS = None
-
-# These feeds are always disabled:
-
+FEED_ALL_ATOM = 'atom.xml'
+FEED_ALL_RSS = 'rss.xml'
+TAG_FEED_ATOM = '%s/atom.xml'
+TAG_FEED_RSS = '%s/rss.xml'
 CATEGORY_FEED_ATOM = None
 CATEGORY_FEED_RSS = None
 AUTHOR_FEED_ATOM = None
@@ -57,18 +53,16 @@ AUTHOR_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Pagination:
+# Pagination
 
 DEFAULT_ORPHANS = 8
-
 DEFAULT_PAGINATION = 10
-
 PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
-# Other settings:
+# Other settings
 
 TIMEZONE = 'America/Toronto'
 DEFAULT_LANG = 'en'
@@ -78,14 +72,14 @@ SLUGIFY_SOURCE = 'basename'
 TYPOGRIFY = True
 
 # Blogroll
+
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
+
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
 
