@@ -6,18 +6,18 @@ from __future__ import unicode_literals
 SITENAME = "Yasser Gonzalez's Blog"
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
-# Put a static page in / and the blog in /articles
+# Put a static page in / and the blog in /blog
 
-SITEURL = '/articles'
+SITEURL = '/blog'
 
 PATH = 'content'
-OUTPUT_PATH = 'output/articles'
+OUTPUT_PATH = 'output/blog'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
-    ('Articles', '/articles/'),
+    ('Blog', '/blog/'),
     ('Resume', '/resume/'),
 ]
 
