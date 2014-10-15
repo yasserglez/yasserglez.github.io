@@ -11,4 +11,4 @@ from develop_conf import *
 SITEURL = 'http://yglezfdez.com/articles'
 FEED_DOMAIN = SITEURL
 
-DELETE_OUTPUT_DIRECTORY = True
+GOOGLE_ANALYTICS = 'UA-53142311-1'
