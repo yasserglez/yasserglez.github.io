@@ -8,7 +8,6 @@ AUTHOR = 'Yasser Gonzalez Fernandez'
 
 # Put a static page in / and the blog in /articles
 
-BASEURL = ''
 SITEURL = '/articles'
 
 PATH = 'content'
@@ -45,6 +44,7 @@ DAY_ARCHIVE_SAVE_AS = ''
 
 THEME = 'theme'
 THEME_STATIC_DIR = '../theme'
+THEME_URL = '/theme'
 
 # Feeds
 
