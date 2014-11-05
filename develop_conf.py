@@ -3,21 +3,23 @@
 
 from __future__ import unicode_literals
 
-SITENAME = "Yasser Gonzalez's Blog"
+SITENAME = "Yasser Gonzalez Fernandez"
+TAGLINE = "Computer Scientist"
+
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
-# Put a static page in / and the blog in /blog
+# Put a static page in / and the blog in /articles
 
-SITEURL = '/blog'
+SITEURL = '/articles'
 
 PATH = 'content'
-OUTPUT_PATH = 'output/blog'
+OUTPUT_PATH = 'output/articles'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
-    ('Blog', '/blog/'),
+    ('Articles', '/articles/'),
     ('Resume', '/resume/'),
 ]
 
@@ -74,9 +76,3 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
