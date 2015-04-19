@@ -1,11 +1,7 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-
-from __future__ import unicode_literals
 
 SITENAME = "Yasser Gonzalez Fernandez"
 TAGLINE = "Computer Scientist"
-
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
 # Put a static page in / and the blog in /articles
