@@ -45,6 +45,10 @@ DAY_ARCHIVE_SAVE_AS = ''
 THEME = 'theme'
 THEME_STATIC_DIR = 'theme'
 
+# Static files
+
+STATIC_PATHS = ['articles']
+
 # Feeds
 
 FEED_ALL_ATOM = 'atom.xml'
