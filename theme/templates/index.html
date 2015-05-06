@@ -1,40 +1,41 @@
-{% extends 'base.html' %}
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include "_head.html" %}
+</head>
 
-{% block content %}
-    <div class="pure-u">
-        <div class="content">
-            <!-- A wrapper for all the blog posts -->
-            <div class="posts">
-                <h1 class="content-subhead">
-                    {% block pagetitle %}
-                        {% if not articles_page.has_previous() %}
-                            Latest posts
-                        {% else %}
-                            Posts
-                        {% endif %}
-                    {% endblock pagetitle %}
-                    {% if articles_page.has_previous() %}
-                        &ndash; Page&nbsp;{{ articles_page.number }}
-                    {% endif %}
-                </h1>
-                {% for article in articles_page.object_list %}
-                    {# Include's latex math only if an article in the index has it present #}
-                    {% if article and article.latex and latex is not defined %}
-                        {% set latex = True %}
-                        {{ article.latex }}
-                    {% endif %}
-                    <section class="post">
-                        <header class="post-header">
-                            <h3><a class="post-title" href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
-                            <p class="post-meta">{{ article.summary }}</p>
-                            <p class="post-meta">
-                                in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a> &middot; {{ article.locale_date }}
-                            </p>
-                        </header>
-                    </section>
-                {% endfor %}
-                {% include 'footer.html' %}
-            </div>
-        </div>
-    </div>
-{% endblock content %}
+<body class="post-index">
+
+{% include "_navigation.html" %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include "_author.html" %}
+  </div>
+  <div id="index">
+    <h1>Articles</h1>
+    {% for year, year_articles in articles|groupby("date.year")|sort(reverse=True) %}
+      <h3>{{ year }}</h3>
+      {% for article in year_articles %}
+      <article>
+        <h2><a href="{{ SITEURL }}/{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a></h2>
+        <p>{{ article.summary|striptags }}</p>
+      </article>
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+
+<div class="footer-wrap">
+  <footer>
+    {% include "_footer.html" %}
+  </footer>
+</div>
+
+{% include "_scripts.html" %}
+
+</body>
+</html>

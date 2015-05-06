@@ -9,7 +9,7 @@ import sys
 sys.path.append(os.curdir)
 from develop_conf import *
 
-SITEURL = 'http://yglezfdez.com/articles'
+SITEURL = 'http://ygonzalezfernandez.com/articles'
 FEED_DOMAIN = SITEURL
 
 GOOGLE_ANALYTICS = ''

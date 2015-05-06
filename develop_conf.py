@@ -3,7 +3,7 @@
 
 from __future__ import unicode_literals
 
-SITENAME = "Yasser Gonzalez Fernandez"
+SITENAME = "Yasser Gonzalez"
 TAGLINE = "Computer Scientist"
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
@@ -17,7 +17,6 @@ OUTPUT_PATH = 'output/articles'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
-    ('Home', '/'),
     ('Articles', '/articles/'),
     ('Resume', '/resume/'),
 ]
@@ -44,8 +43,7 @@ DAY_ARCHIVE_SAVE_AS = ''
 # Theme
 
 THEME = 'theme'
-THEME_STATIC_DIR = '../theme'
-THEME_URL = '/theme'
+THEME_STATIC_DIR = 'theme'
 
 # Feeds
 
@@ -68,10 +66,11 @@ USE_FOLDER_AS_CATEGORY = False
 DEFAULT_CATEGORY = ''
 SLUGIFY_SOURCE = 'basename'
 TYPOGRIFY = True
+SUMMARY_MAX_LENGTH = 25
 
-# Blogroll
+# Plugins
 
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['assets', 'related_posts']
+
+ASSET_SOURCE_PATHS = ['assets']

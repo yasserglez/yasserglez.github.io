@@ -20,6 +20,7 @@ def clean():
 
 def build():
     local('pelican -s develop_conf.py')
+    local('cp theme/static/images/favicon.ico output/')
 
 def rebuild():
     clean()
@@ -40,3 +41,4 @@ def reserve():
 
 def publish():
     local('pelican -s deploy_conf.py')
+    local('cp theme/static/images/favicon.ico output/')

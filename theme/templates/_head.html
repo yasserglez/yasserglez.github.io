@@ -1,0 +1,45 @@
+<meta charset="utf-8">
+
+{% if page is defined %}
+  <title>{{ page.title }} &#8211; {{ SITENAME }}</title>
+{% elif article is defined %}
+  <title>{{ article.title }} &#8211; {{ SITENAME }}</title>
+{% else %}
+  <title>Articles &#8211; {{ SITENAME }}</title>
+{% endif %}
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+{% if FEED_ALL_RSS %}
+<link rel="alternate"
+      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
+      type="application/rss+xml"
+      title="Articles &#8211; {{ SITENAME }}">
+{% endif %}
+{% if FEED_ALL_ATOM %}
+<link rel="alternate"
+      href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
+      type="application/atom+xml"
+      title="Articles &#8211; {{ SITENAME }}">
+{% endif %}
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+  <script src="{{ SITEURL }}/theme/js/html5shiv.min.js"></script>
+  <script src="{{ SITEURL }}/theme/js/respond.min.js"></script>
+<![endif]-->
+
+<script src="{{ SITEURL }}/theme/js/modernizr-2.7.1.custom.min.js"></script>
+
+<link rel="stylesheet" href="{{ SITEURL }}/theme/css/academicons.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic">
+
+{% assets filters="libsass,yui_css", output="css/main.min.css", "css/main.scss" %}
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+{% endassets %}
+
+<link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/favicon-152.png">
