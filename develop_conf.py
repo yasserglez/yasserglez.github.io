@@ -27,11 +27,11 @@ PAGE_URL = '../{slug}/'
 PAGE_SAVE_AS = '../{slug}/index.html'
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
-TAG_URL = '{slug}/'
-TAG_SAVE_AS = '{slug}/index.html'
 
 # Disable everything else
 
+TAG_URL = ''
+TAG_SAVE_AS = ''
 CATEGORY_URL = ''
 CATEGORY_SAVE_AS = ''
 AUTHOR_URL = ''
@@ -53,8 +53,8 @@ STATIC_PATHS = ['articles']
 
 FEED_ALL_ATOM = 'atom.xml'
 FEED_ALL_RSS = 'rss.xml'
-TAG_FEED_ATOM = '%s/atom.xml'
-TAG_FEED_RSS = '%s/rss.xml'
+TAG_FEED_ATOM = None
+TAG_FEED_RSS = None
 CATEGORY_FEED_ATOM = None
 CATEGORY_FEED_RSS = None
 AUTHOR_FEED_ATOM = None
