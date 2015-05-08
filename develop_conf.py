@@ -77,7 +77,7 @@ SUMMARY_MAX_LENGTH = 25
 # Plugins
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['assets', 'related_posts', 'sitemap']
+PLUGINS = ['assets', 'related_posts', 'sitemap', 'render_math']
 
 ASSET_SOURCE_PATHS = ['assets']
 
