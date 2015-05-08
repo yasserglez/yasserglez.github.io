@@ -1,6 +1,7 @@
 title: A Post with Images
 summary: Examples and code for displaying images in posts.
 date: 2015-05-06
+tags: minimal-mistakes
 
 Here are some examples of what a post with images might look like. If
 you want to display two or three images next to each other

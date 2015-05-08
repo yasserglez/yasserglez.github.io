@@ -1,6 +1,7 @@
 title: Testing Readability with a Bunch of Text
 summary: A ton of text to test readability.
 date: 2015-05-06
+tags: minimal-mistakes
 
 Portland in shoreditch Vice, labore typewriter pariatur hoodie fap
 sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad

@@ -1,6 +1,7 @@
 title: Syntax Highlighting Post
 summary: Demo post displaying the various ways of highlighting code in Markdown.
 date: 2015-05-06
+tags: minimal-mistakes
 
 Syntax highlighting is a feature that displays source code, in
 different colors and fonts according to the category of terms. This

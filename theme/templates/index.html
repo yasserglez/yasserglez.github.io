@@ -16,7 +16,13 @@
     {% include "_author.html" %}
   </div>
   <div id="index">
-    <h1>Articles</h1>
+    <h1>All Posts</h1>
+
+    <p>You can <a href="https://twitter.com/yasserglez">follow me on Twitter</a>, or subscribe to the
+      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a> or
+      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a> feeds
+      to be notified about new posts.</p>
+
     {% for year, year_articles in articles|groupby("date.year")|sort(reverse=True) %}
       <h3>{{ year }}</h3>
       {% for article in year_articles %}

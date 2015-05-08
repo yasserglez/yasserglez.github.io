@@ -7,17 +7,17 @@ SITENAME = "Yasser Gonzalez"
 TAGLINE = "Computer Scientist"
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
-# Put a static page in / and the blog in /articles
+# Put a static page in / and the blog in /blog
 
-SITEURL = '/articles'
+SITEURL = '/blog'
 
 PATH = 'content'
-OUTPUT_PATH = 'output/articles'
+OUTPUT_PATH = 'output/blog'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
-    ('Articles', '/articles/'),
+    ('Blog', '/blog/'),
     ('Resume', '/resume/'),
 ]
 
@@ -29,6 +29,8 @@ ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Disable everything else
+
+DIRECT_TEMPLATES = ['index']
 
 TAG_URL = ''
 TAG_SAVE_AS = ''
@@ -47,7 +49,7 @@ THEME_STATIC_DIR = 'theme'
 
 # Static files
 
-STATIC_PATHS = ['articles']
+STATIC_PATHS = ['blog']
 
 # Feeds
 
