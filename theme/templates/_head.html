@@ -1,11 +1,11 @@
 <meta charset="utf-8">
 
 {% if page is defined %}
-  <title>{{ page.title }} &#8211; {{ SITENAME }}</title>
+  <title>{{ page.title }} &#8211; Yasser Gonzalez</title>
 {% elif article is defined %}
-  <title>{{ article.title }} &#8211; {{ SITENAME }}</title>
+  <title>{{ article.title }} &#8211; Yasser Gonzalez</title>
 {% else %}
-  <title>Blog &#8211; {{ SITENAME }}</title>
+  <title>Blog &#8211; Yasser Gonzalez</title>
 {% endif %}
 
 <!-- http://t.co/dKP3o1e -->
@@ -17,13 +17,13 @@
 <link rel="alternate"
       href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
       type="application/rss+xml"
-      title="Blog &#8211; {{ SITENAME }}">
+      title="Blog &#8211; Yasser Gonzalez">
 {% endif %}
 {% if FEED_ALL_ATOM %}
 <link rel="alternate"
       href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
       type="application/atom+xml"
-      title="Blog &#8211; {{ SITENAME }}">
+      title="Blog &#8211; Yasser Gonzalez">
 {% endif %}
 
 <!-- HTML5 Shiv and Media Query Support -->
@@ -42,4 +42,5 @@
   <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
 {% endassets %}
 
-<link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/favicon-152.png">
+<link rel="icon" href="{{ SITEURL }}/theme/images/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/favicon-152.png" type="image/png">

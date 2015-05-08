@@ -3,16 +3,23 @@
 
 from __future__ import unicode_literals
 
-SITENAME = "Yasser Gonzalez"
-TAGLINE = "Computer Scientist"
+SITENAME = 'Blog &#8211; Yasser Gonzalez'
 AUTHOR = 'Yasser Gonzalez Fernandez'
 
 # Put a static page in / and the blog in /blog
 
-SITEURL = '/blog'
+SITEURL = '/'
 
 PATH = 'content'
-OUTPUT_PATH = 'output/blog'
+OUTPUT_PATH = 'output'
+
+DIRECT_TEMPLATES = ('index', )
+
+INDEX_SAVE_AS = 'blog/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+ARTICLE_URL = 'blog/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -20,13 +27,6 @@ MENUITEMS = [
     ('Blog', '/blog/'),
     ('Resume', '/resume/'),
 ]
-
-DIRECT_TEMPLATES = ('index', )
-
-PAGE_URL = '../{slug}/'
-PAGE_SAVE_AS = '../{slug}/index.html'
-ARTICLE_URL = '{slug}/'
-ARTICLE_SAVE_AS = '{slug}/index.html'
 
 # Disable everything else
 
@@ -53,8 +53,8 @@ STATIC_PATHS = ['blog']
 
 # Feeds
 
-FEED_ALL_ATOM = 'atom.xml'
-FEED_ALL_RSS = 'rss.xml'
+FEED_ALL_ATOM = 'blog/atom.xml'
+FEED_ALL_RSS = 'blog/rss.xml'
 TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 CATEGORY_FEED_ATOM = None
