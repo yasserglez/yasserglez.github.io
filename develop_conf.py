@@ -77,6 +77,20 @@ SUMMARY_MAX_LENGTH = 25
 # Plugins
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['assets', 'related_posts']
+PLUGINS = ['assets', 'related_posts', 'sitemap']
 
 ASSET_SOURCE_PATHS = ['assets']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'weekly',
+        'pages': 'weekly'
+    }
+}
