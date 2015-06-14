@@ -25,7 +25,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Blog', '/blog/'),
-    ('Resume', '/resume/'),
+    ('Publications', '/publications/'),
 ]
 
 # Disable everything else
@@ -49,7 +49,7 @@ THEME_STATIC_DIR = 'theme'
 
 # Static files
 
-STATIC_PATHS = ['blog']
+STATIC_PATHS = ['blog', 'pages']
 
 # Feeds
 
