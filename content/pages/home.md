@@ -1,5 +1,4 @@
 title: Home
-url:
 save_as: index.html
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis

@@ -35,7 +35,7 @@
 <div class="footer-wrap">
   {% if article.related_posts %}
   <div class="related-articles">
-  <h4>Related posts <small class="pull-right">(<a href="{{ SITEURL }}">View all posts</a>)</small></h4>
+  <h4>Related posts <small class="pull-right">(<a href="{{ SITEURL }}/blog/">View all posts</a>)</small></h4>
     <ul>
     {% for post in article.related_posts %}
       <li><a href="{{ SITEURL }}/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>

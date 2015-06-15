@@ -13,8 +13,7 @@ SITEURL = '/'
 PATH = 'content'
 OUTPUT_PATH = 'output'
 
-DIRECT_TEMPLATES = ('index', )
-
+DIRECT_TEMPLATES = ['index']
 INDEX_SAVE_AS = 'blog/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -25,12 +24,12 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Blog', '/blog/'),
+    ('CV', '/cv/'),
     ('Publications', '/publications/'),
+    ('Software', '/software/'),
 ]
 
 # Disable everything else
-
-DIRECT_TEMPLATES = ['index']
 
 TAG_URL = ''
 TAG_SAVE_AS = ''
