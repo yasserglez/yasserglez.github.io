@@ -40,7 +40,7 @@ Most of the code is available on my
 
 I've also made smaller contributions to the following open-source projects.
 
-* [pymdptoolbox](https://github.com/yasserglez/pymdptoolbox)
+* [pymdptoolbox](https://github.com/sawcordwell/pymdptoolbox)
   -- Markov decision process toolbox for Python.
 * [pyeasyga](https://github.com/remiomosowon/pyeasyga)
   -- A simple and easy-to-use genetic algorithm library in Python.
