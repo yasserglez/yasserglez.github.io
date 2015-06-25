@@ -1,9 +1,11 @@
 title: Publications
 save_as: publications/index.html
 
-This page contains a list of my academic publications. Additional
-information may be available on my [Google Scholar](https://scholar.google.ca/citations?user=QaS60OYAAAAJ)
-and [ResearchGate](https://www.researchgate.net/profile/Yasser_Gonzalez-Fernandez) profiles.
+This page contains a list of my academic publications with links to
+download the full-texts. Citation information is available on my
+[Google Scholar](https://scholar.google.ca/citations?user=QaS60OYAAAAJ) and
+[ResearchGate](https://www.researchgate.net/profile/Yasser_Gonzalez-Fernandez)
+profiles.
 
 ## Journal Articles & Book Chapters
 
