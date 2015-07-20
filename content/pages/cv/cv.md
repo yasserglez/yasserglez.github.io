@@ -3,8 +3,7 @@ save_as: cv/index.html
 
 You may also download
 [a PDF version]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Curriculum Vitae")
-of my CV or view my
-[LinkedIn](https://linkedin.com/in/yasserglez) profile.
+or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Education
 
@@ -97,7 +96,7 @@ HTML -- CSS -- JavaScript -- LaTeX -- GNU/Linux system administration.
   [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
   In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1--7.
 
-For more information, please see my [publications](/publications/) page.
+For more information, please see the [publications](/publications/) page.
 
 ## Selected Open-Source Software
 
@@ -113,4 +112,4 @@ For more information, please see my [publications](/publications/) page.
 * [dml](https://github.com/yasserglez/dml) -- C library for dependence
   modeling using C-vines, D-vines and R-vines.
 
-For more information, please see my [software](/software/) page.
+For more information, please see the [software](/software/) page.
