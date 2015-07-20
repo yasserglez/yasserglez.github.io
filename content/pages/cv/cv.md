@@ -21,9 +21,13 @@ of my CV or view my
 :   **Data Science Specialization.**<br>
     A non-credit series offered by Johns Hopkins University through Coursera.
 
-    * *Courses:* The Data Scientist’s Toolbox, R Programming,
-      Getting and Cleaning Data, Exploratory Data Analysis,
-      Reproducible Research, Statistical Inference.
+    * *Courses:*
+      [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/records/ykQYDRkuykt9WWr7),
+      [R Programming](https://www.coursera.org/account/accomplishments/records/x4KDhhWYxNj6HG2t),
+      [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/QwWYwqU3D69XVpvd),
+      [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/HuzbwazrhPCTHMrX),
+      [Reproducible Research](https://www.coursera.org/account/accomplishments/records/bKEWmfsmU6pfA2V6),
+      [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3).
 
 2011--2012
 :   **Graduate Coursework, Mathematics.**<br>
@@ -39,8 +43,8 @@ of my CV or view my
     University of Havana, Cuba.
 
     * *Grade Point Average:* 5.0/5.0 (Summa Cum Laude).
-    * *Thesis:* Estimation of Distribution Algorithms Based on Copulas
-      and Vines. Supervised by Marta Soto.
+    * *Thesis:* [Estimation of Distribution Algorithms Based on Copulas and Vines](../publications/bachelor-thesis.pdf).
+      Supervised by Marta Soto.
     * *Courses:* Algebra, Mathematical Analysis,
       Probability & Statistics, Discrete Mathematics, Theory of
       Programming Languages, Design & Analysis of Algorithms, Compiler
