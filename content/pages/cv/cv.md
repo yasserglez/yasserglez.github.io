@@ -43,7 +43,6 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
     * *Grade Point Average:* 5.0/5.0 (Summa Cum Laude).
     * *Thesis:* [Estimation of Distribution Algorithms Based on Copulas and Vines](../publications/bachelor-thesis.pdf).
-      Supervised by Marta Soto.
     * *Courses:* Algebra, Mathematical Analysis,
       Probability & Statistics, Discrete Mathematics, Theory of
       Programming Languages, Design & Analysis of Algorithms, Compiler
@@ -59,7 +58,7 @@ HTML -- CSS -- JavaScript -- LaTeX -- GNU/Linux system administration.
 ## Employment
 
 2013--present
-:   **Research and Teaching Assistant.**<br>
+:   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
     * Designed different solution methods for the problem of
