@@ -1,16 +1,22 @@
-title: Home
+title: Hello, I'm Yasser
 save_as: index.html
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam iaculis
-nec nibh sed faucibus. Phasellus volutpat leo venenatis, porta sapien
-id, mattis mi. Sed at nisi sit amet lacus aliquam convallis at sed
-ipsum. Donec iaculis turpis at sem semper, interdum feugiat lorem
-blandit. Curabitur molestie venenatis convallis. Integer ac urna erat.
-Aliquam sagittis tempus ligula, sit amet ultrices nisi convallis nec.
-Donec pulvinar hendrerit arcu sed malesuada. Sed interdum gravida
-hendrerit. Cras tempus dolor maximus eleifend facilisis. Sed non felis
-vel velit vestibulum porta. Mauris tempor tortor quis massa rhoncus,
-accumsan rutrum nibh condimentum. Pellentesque vestibulum efficitur
-turpis nec porttitor. Nulla nec congue quam. Nulla aliquet tempus
-risus at pharetra. Maecenas varius lectus in nibh tristique, at
-rhoncus tortor blandit.
+I'm a computer scientist living in Toronto, Canada. I'm passionate
+about the design and implementation of algorithms to solve challenging
+problems and draw conclusions from data. My interests include the
+areas of optimization, machine learning, natural language processing
+and data analysis -- many of which fall within the emerging field of
+data science. I started working with open-source technologies 10 years
+ago, and I haven't stopped since.
+
+I hold a bachelor's degree in Computer Science and I'm close to
+completing a master's degree in Information Systems & Technology.
+I've worked as research assistant at the Institute of Cybernetics,
+Mathematics and Physics in Cuba, and at York University in Canada --
+using mostly R and Python to solve different optimization-related
+problems. You can read [my CV](cv/) for a list of publications,
+open-source software I have developed, and detailed skills.
+
+## Contact
+
+Feel free to contact me at <contact@yassergonzalez.com>.
