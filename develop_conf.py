@@ -13,7 +13,10 @@ SITEURL = '/'
 PATH = 'content'
 OUTPUT_PATH = 'output'
 
-DIRECT_TEMPLATES = ['index']
+# Uncomment to enable the blog:
+# DIRECT_TEMPLATES = ['index']
+DIRECT_TEMPLATES = []
+
 INDEX_SAVE_AS = 'blog/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -23,7 +26,8 @@ ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
-    ('Blog', '/blog/'),
+    # Uncomment to enable the blog:
+    # ('Blog', '/blog/'),
     ('CV', '/cv/'),
     ('Publications', '/publications/'),
     ('Software', '/software/'),
@@ -48,12 +52,18 @@ THEME_STATIC_DIR = 'theme'
 
 # Static files
 
-STATIC_PATHS = ['blog', 'pages']
+# Uncomment to enable the blog:
+# STATIC_PATHS = ['blog', 'pages']
+STATIC_PATHS = ['pages']
 
 # Feeds
 
-FEED_ALL_ATOM = 'blog/atom.xml'
-FEED_ALL_RSS = 'blog/rss.xml'
+# Uncomment to enable the blog:
+# FEED_ALL_ATOM = 'blog/atom.xml'
+# FEED_ALL_RSS = 'blog/rss.xml'
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
+
 TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 CATEGORY_FEED_ATOM = None
