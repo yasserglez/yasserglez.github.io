@@ -18,9 +18,9 @@
   <div id="index">
     <h1>All Posts</h1>
 
-    <p>You can <a href="https://twitter.com/yasserglez">follow me on Twitter</a>, or subscribe to the
+    <p>You can <a href="https://twitter.com/yasserglez">follow me on Twitter</a>, or subscribe via
       <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">RSS</a> or
-      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a> feeds
+      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">Atom</a>
       to be notified about new posts.</p>
 
     {% for year, year_articles in articles|groupby("date.year")|sort(reverse=True) %}
