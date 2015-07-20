@@ -1,6 +1,6 @@
 title: Open-Source Software
 
-Below is a list of open-source software I've written or co-authored.
+This is a list of open-source software I've written or co-authored.
 Most of the code is available on my
 [GitHub](https://github.com/yasserglez) account.
 
@@ -44,4 +44,4 @@ I've also made smaller contributions to the following open-source projects.
   -- Markov decision process toolbox for Python.
 * [pyeasyga](https://github.com/remiomosowon/pyeasyga)
   -- A simple and easy-to-use genetic algorithm library in Python.
-* [httr](https://github.com/hadley/httr) -- a friendly http package for R.
+* [httr](https://github.com/hadley/httr) -- a friendly HTTP package for R.

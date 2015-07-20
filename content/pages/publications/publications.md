@@ -1,8 +1,8 @@
 title: Publications
 save_as: publications/index.html
 
-This page contains a list of my academic publications with links to
-download the full-texts. Citation information is available on my
+This is a list of my academic publications with links to download the
+full-texts. Citation information is available on my
 [Google Scholar](https://scholar.google.ca/citations?user=QaS60OYAAAAJ) and
 [ResearchGate](https://www.researchgate.net/profile/Yasser_Gonzalez-Fernandez)
 profiles.
@@ -38,7 +38,7 @@ profiles.
 
 * Y. Gonzalez-Fernandez. (2011).
   [Estimation of Distribution Algorithms Based on Copulas and Vines]({attach}bachelor-thesis.pdf).
-  Bachelor's thesis, University of Havana, Cuba. (In Spanish).
+  Bachelor's thesis, University of Havana, Cuba.
 
 ## Technical Reports
 
