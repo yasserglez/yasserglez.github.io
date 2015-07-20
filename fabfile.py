@@ -8,7 +8,6 @@ import SimpleHTTPServer
 import SocketServer
 
 from fabric.api import *
-import fabric.contrib.project as project
 
 # Local path configuration (can be absolute or relative to fabfile)
 env.deploy_path = 'output'
@@ -20,7 +19,6 @@ def clean():
 
 def build():
     local('pelican -s develop_conf.py')
-    local('cp theme/static/images/favicon.ico output/')
 
 def rebuild():
     clean()
@@ -39,6 +37,9 @@ def reserve():
     build()
     serve()
 
-def publish():
+def deploy():
     local('pelican -s deploy_conf.py')
-    local('cp theme/static/images/favicon.ico output/')
+    local('mv {deploy_path}/theme/favicon.ico {deploy_path}'.format(**env))
+    local('mv {deploy_path}/theme/favicon-152.png {deploy_path}'.format(**env))
+    local('mv {deploy_path}/theme/CNAME {deploy_path}'.format(**env))
+    local('ghp-import -b master -m "Commit by ghp-import" {deploy_path}'.format(**env))
