@@ -11,5 +11,3 @@ from develop_conf import *
 
 SITEURL = 'http://yassergonzalez.com'
 FEED_DOMAIN = SITEURL
-
-PLUGINS += ['minify']

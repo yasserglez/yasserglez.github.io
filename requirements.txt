@@ -6,4 +6,3 @@ libsass==0.8.2
 yuicompressor==2.4.8
 Fabric==1.10.2
 git+https://github.com/davisp/ghp-import@40f0718c67
-pelican-minify==0.8
