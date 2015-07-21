@@ -44,4 +44,4 @@ def deploy():
     local('mv {deploy_path}/theme/favicon-152.png {deploy_path}'.format(**env))
     local('mv {deploy_path}/theme/CNAME {deploy_path}'.format(**env))
     local('ghp-import -b master -m "Commit by ghp-import" {deploy_path}'.format(**env))
-    local('git push github master')
+    local('git push --force github master')
