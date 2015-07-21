@@ -1,11 +1,15 @@
 <meta charset="utf-8">
 
 {% if page is defined %}
-  <title>{{ page.title }} &#8211; Yasser Gonzalez</title>
+  {% if page.save_as == "index.html" %}
+    <title>Personal website of Yasser Gonzalez</title>
+  {% else %}
+    <title>{{ page.title }} &mdash; Yasser Gonzalez</title>
+  {% endif %}
 {% elif article is defined %}
-  <title>{{ article.title }} &#8211; Yasser Gonzalez</title>
+  <title>{{ article.title }} &mdash; Yasser Gonzalez</title>
 {% else %}
-  <title>Blog &#8211; Yasser Gonzalez</title>
+  <title>Blog &mdash; Yasser Gonzalez</title>
 {% endif %}
 
 <!-- http://t.co/dKP3o1e -->
@@ -14,7 +18,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {% if page is defined and page.save_as == "index.html" %}
-  <meta name="description" content="Personal website of Yasser Gonzalez – a computer scientist living in Toronto, Canada.">
+  <meta name="description" content="Yasser Gonzalez is a computer scientist living in Toronto, Canada.">
 
   <link rel="canonical" href="http://yassergonzalez.com">
 
@@ -28,13 +32,13 @@
 <link rel="alternate"
       href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"
       type="application/rss+xml"
-      title="Blog &#8211; Yasser Gonzalez">
+      title="Blog &mdash; Yasser Gonzalez">
 {% endif %}
 {% if FEED_ALL_ATOM %}
 <link rel="alternate"
       href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"
       type="application/atom+xml"
-      title="Blog &#8211; Yasser Gonzalez">
+      title="Blog &mdash; Yasser Gonzalez">
 {% endif %}
 
 <!-- HTML5 Shiv and Media Query Support -->

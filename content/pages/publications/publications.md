@@ -11,28 +11,28 @@ profiles.
 
 * S. Chen, J. Montgomery, A. Bolufé-Röhler, Y. Gonzalez-Fernandez. (2015).
   [A Review of Thresheld Convergence](http://www.upo.es/revistas/index.php/gecontec/article/download/1410/pdf_15).
-  *GECONTEC: Revista Internacional de Gestión del Conocimiento y la Tecnología*, 3(1), 1--13.
+  *GECONTEC: Revista Internacional de Gestión del Conocimiento y la Tecnología*, 3(1), 1&ndash;13.
 * M. Soto, Y. Gonzalez-Fernandez, A. Ochoa. (2015).
   [Modeling with Copulas and Vines in Estimation of Distribution Algorithms](http://rev-inv-ope.univ-paris1.fr/IMG/pdf_36115-01.pdf).
-  *Revista Investigación Operacional*, 36(1), 1--23.
+  *Revista Investigación Operacional*, 36(1), 1&ndash;23.
 * Y. Gonzalez-Fernandez, M. Soto. (2014).
   [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
-  *Journal of Statistical Software*, 58(9), 1--34.
+  *Journal of Statistical Software*, 58(9), 1&ndash;34.
 * M. Soto, A. Ochoa, Y. Gonzalez-Fernandez, Y. Milanés, A. Álvarez, D. Carrera, and E. Moreno. (2012).
   [Vine Estimation of Distribution Algorithms with Application to Molecular Docking](http://link.springer.com/chapter/10.1007/978-3-642-28900-2_13).
-  In S. Shakya and R. Santana (eds.), *Markov Networks in Evolutionary Computation*, 209--225. Springer.
+  In S. Shakya and R. Santana (eds.), *Markov Networks in Evolutionary Computation*, 209&ndash;225. Springer.
 
 ## Conference Proceedings
 
 * Y. Gonzalez-Fernandez, S. Chen. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
-  In *Conference on Genetic and Evolutionary Computation*, 17--24. ACM.
+  In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
 * J. Montgomery, S. Chen, Y. Gonzalez-Fernandez. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Differential Evolution](http://dx.doi.org/10.1109/CEC.2014.6900579).
-  In *IEEE Congress on Evolutionary Computation*, 1427--1434. IEEE.
+  In *IEEE Congress on Evolutionary Computation*, 1427&ndash;1434. IEEE.
 * Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
   [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
-  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1--7.
+  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
 
 ## Theses
 

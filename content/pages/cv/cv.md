@@ -7,16 +7,16 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Education
 
-2013--2015 (expected)
+2013&ndash;2015 (expected)
 :   **Master's degree, Information Systems & Technology.**<br>
     York University, Canada.
 
-    * *Courses:* Advanced Topics in Information Technology -- Mining
+    * *Courses:* Advanced Topics in Information Technology &ndash; Mining
       of Massive Datasets, Advanced Information Retrieval Systems,
       Introduction to Computational Linguistics, Software Product
       Lines, Research Methods in Information Technology.
 
-2014--2015 (expected)
+2014&ndash;2015 (expected)
 :   **Data Science Specialization.**<br>
     A non-credit series offered by Johns Hopkins University through Coursera.
 
@@ -28,16 +28,16 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       [Reproducible Research](https://www.coursera.org/account/accomplishments/records/bKEWmfsmU6pfA2V6),
       [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3).
 
-2011--2012
+2011&ndash;2012
 :   **Graduate Coursework, Mathematics.**<br>
     University of Havana, Cuba.
 
-    * *Courses:* Multivariate Statistics, Nonparametric Tests --
+    * *Courses:* Multivariate Statistics, Nonparametric Tests &ndash;
       Methods Based on Ranks, Linear Models, Stochastic Simulation,
       Linear & Integer Programming, Heuristic & Metaheuristics
       Algorithms, Introduction to Parallel Computing.
 
-2006--2011
+2006&ndash;2011
 :   **Bachelor's degree, Computer Science.**<br>
     University of Havana, Cuba.
 
@@ -52,12 +52,12 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Technologies
 
-Python -- R -- C -- MATLAB/Octave -- Java -- SQL -- Hadoop -- Git --
-HTML -- CSS -- JavaScript -- LaTeX -- GNU/Linux system administration.
+Python &ndash; R &ndash; C &ndash; MATLAB/Octave &ndash; Java &ndash; SQL &ndash; Hadoop &ndash; Git &ndash;
+HTML &ndash; CSS &ndash; JavaScript &ndash; LaTeX &ndash; GNU/Linux system administration.
 
 ## Employment
 
-2013--present
+2013&ndash;present
 :   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
@@ -72,7 +72,7 @@ HTML -- CSS -- JavaScript -- LaTeX -- GNU/Linux system administration.
       Introduction to Data Structures (one session), and AP/ITEC 1000
       Introduction to Information Technologies (one session).
 
-2011--2013
+2011&ndash;2013
 :   **Research Assistant.**<br>
     Institute of Cybernetics, Mathematics and Physics, Cuba.
 
@@ -87,28 +87,28 @@ HTML -- CSS -- JavaScript -- LaTeX -- GNU/Linux system administration.
 
 * Y. Gonzalez-Fernandez, M. Soto. (2014).
   [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
-  *Journal of Statistical Software*, 58(9), 1--34.
+  *Journal of Statistical Software*, 58(9), 1&ndash;34.
 * Y. Gonzalez-Fernandez, S. Chen. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
-  In *Conference on Genetic and Evolutionary Computation*, 17--24. ACM.
+  In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
 * Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
   [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
-  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1--7.
+  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
 
 For more information, please see the [publications](/publications/) page.
 
 ## Selected Open-Source Software
 
 * [copulaedas](https://github.com/yasserglez/copulaedas)
-  -- R package for implementing and studying estimation of
+  &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
-* [vines](https://github.com/yasserglez/vines) -- R implementation
+* [vines](https://github.com/yasserglez/vines) &ndash; R implementation
   of the vine graphical model for building high-dimensional
   probability distributions as a factorization of bivariate copulas
   and marginal density functions.
 * [ngram_profile](https://github.com/yasserglez/ngram_profile)
-  -- Python library for text classification based on character n-grams.
-* [dml](https://github.com/yasserglez/dml) -- C library for dependence
+  &ndash; Python library for text classification based on character n-grams.
+* [dml](https://github.com/yasserglez/dml) &ndash; C library for dependence
   modeling using C-vines, D-vines and R-vines.
 
 For more information, please see the [software](/software/) page.
