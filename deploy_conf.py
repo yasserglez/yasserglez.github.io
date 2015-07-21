@@ -12,4 +12,4 @@ from develop_conf import *
 SITEURL = 'http://yassergonzalez.com'
 FEED_DOMAIN = SITEURL
 
-DELETE_OUTPUT_DIRECTORY = True
+PLUGINS += ['minify']

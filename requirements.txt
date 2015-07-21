@@ -5,4 +5,5 @@ git+https://github.com/miracle2k/webassets.git@9d051539f8
 libsass==0.7.0
 yuicompressor==2.4.8
 Fabric==1.10.1
-git+https://github.com/davisp/ghp-import
+git+https://github.com/davisp/ghp-import@40f0718c67
+pelican-minify==0.8

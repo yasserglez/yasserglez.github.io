@@ -38,6 +38,7 @@ def reserve():
     serve()
 
 def deploy():
+    clean()
     local('pelican -s deploy_conf.py')
     local('mv {deploy_path}/theme/favicon.ico {deploy_path}'.format(**env))
     local('mv {deploy_path}/theme/favicon-152.png {deploy_path}'.format(**env))
