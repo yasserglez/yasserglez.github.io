@@ -4,12 +4,11 @@ from __future__ import unicode_literals
 
 import os
 import sys
-import SimpleHTTPServer
-import SocketServer
+from SimpleHTTPServer import SimpleHTTPRequestHandler
+from SocketServer import TCPServer
 
 from fabric.api import *
 
-# Local path configuration (can be absolute or relative to fabfile)
 env.deploy_path = 'output'
 
 def clean():
@@ -24,17 +23,18 @@ def rebuild():
     clean()
     build()
 
+class AddressReuseTCPServer(TCPServer):
+    allow_reuse_address = True
+
 def serve():
     os.chdir(env.deploy_path)
-    PORT = 8000
-    class AddressReuseTCPServer(SocketServer.TCPServer):
-        allow_reuse_address = True
-    server = AddressReuseTCPServer(('', PORT), SimpleHTTPServer.SimpleHTTPRequestHandler)
-    sys.stderr.write('Serving on port {0} ...\n'.format(PORT))
+    port = 8000
+    server = AddressReuseTCPServer(('', port), SimpleHTTPRequestHandler)
+    sys.stderr.write('Serving on port {0} ...\n'.format(port))
     server.serve_forever()
 
 def reserve():
-    build()
+    rebuild()
     serve()
 
 def deploy():
@@ -43,3 +43,4 @@ def deploy():
     local('mv {deploy_path}/theme/favicon-152.png {deploy_path}'.format(**env))
     local('mv {deploy_path}/theme/CNAME {deploy_path}'.format(**env))
     local('ghp-import -b master -m "Commit by ghp-import" {deploy_path}'.format(**env))
+    local('git push github master')
