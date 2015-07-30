@@ -99,6 +99,9 @@ For more information, please see the [publications](/publications/) page.
 
 ## Selected Open-Source Software
 
+* [configurator](https://github.com/yasserglez/configurator) &ndash;
+  Python package providing different solutions to the problem of
+  optimizing the user interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
