@@ -26,7 +26,8 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/QwWYwqU3D69XVpvd),
       [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/HuzbwazrhPCTHMrX),
       [Reproducible Research](https://www.coursera.org/account/accomplishments/records/bKEWmfsmU6pfA2V6),
-      [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3).
+      [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3),
+      [Regression Models](https://www.coursera.org/account/accomplishments/records/rxtYL2Fs8eZDByKa).
 
 2011&ndash;2012
 :   **Graduate Coursework, Mathematics.**<br>
