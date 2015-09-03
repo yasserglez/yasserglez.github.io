@@ -36,6 +36,9 @@ profiles.
 
 ## Theses
 
+* Y. Gonzalez-Fernandez. (2015).
+  [Efficient Calculation of Optimal Configuration Processes]({attach}master-thesis.pdf).
+  Master's thesis, York University, Canada.
 * Y. Gonzalez-Fernandez. (2011).
   [Estimation of Distribution Algorithms Based on Copulas and Vines]({attach}bachelor-thesis.pdf).
   Bachelor's thesis, University of Havana, Cuba.

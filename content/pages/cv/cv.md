@@ -7,16 +7,17 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Education
 
-2013&ndash;2015 (expected)
+2013&ndash;2015
 :   **Master's degree, Information Systems & Technology.**<br>
     York University, Canada.
 
+    * *Thesis:* [Efficient Calculation of Optimal Configuration Processes](../publications/master-thesis.pdf).
     * *Courses:* Advanced Topics in Information Technology &ndash; Mining
       of Massive Datasets, Advanced Information Retrieval Systems,
       Introduction to Computational Linguistics, Software Product
       Lines, Research Methods in Information Technology.
 
-2014&ndash;2015 (expected)
+2014&ndash;2015
 :   **Data Science Specialization.**<br>
     A non-credit series offered by Johns Hopkins University through Coursera.
 
@@ -42,7 +43,7 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 :   **Bachelor's degree, Computer Science.**<br>
     University of Havana, Cuba.
 
-    * *Grade Point Average:* 5.0/5.0 (Summa Cum Laude).
+    * *GPA:* 5.0/5.0 (Summa Cum Laude).
     * *Thesis:* [Estimation of Distribution Algorithms Based on Copulas and Vines](../publications/bachelor-thesis.pdf).
     * *Courses:* Algebra, Mathematical Analysis,
       Probability & Statistics, Discrete Mathematics, Theory of
@@ -58,7 +59,7 @@ HTML &ndash; CSS &ndash; JavaScript &ndash; LaTeX &ndash; GNU/Linux system admin
 
 ## Employment
 
-2013&ndash;present
+2013&ndash;2015
 :   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
