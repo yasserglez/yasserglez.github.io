@@ -212,8 +212,8 @@ body {
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 110px;
-		@include rounded(150px);
+		max-width: 120px;
+		@include rounded(6px);
 	}
 	@media #{$small} {
 		display: block;
@@ -242,7 +242,7 @@ body {
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 180px;
 		}
 	}
 	@media #{$x-large} {
