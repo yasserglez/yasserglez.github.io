@@ -6,7 +6,7 @@ about the design and implementation of algorithms to solve challenging
 problems and draw conclusions from data. My interests include the
 areas of optimization, machine learning, natural language processing
 and data analysis &ndash; many of which fall within the emerging field
-of data science. I love working with open-source technologies, started
+of data science. I love working with open-source software, started
 10 years ago and haven't stopped since then.
 
 I have a bachelor's degree in Computer Science and I'm close to
