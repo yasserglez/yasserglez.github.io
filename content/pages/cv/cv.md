@@ -54,8 +54,18 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Technologies
 
-Python &ndash; R &ndash; C &ndash; MATLAB/Octave &ndash; Java &ndash; SQL &ndash; Hadoop &ndash; Git &ndash;
-HTML &ndash; CSS &ndash; JavaScript &ndash; LaTeX &ndash; GNU/Linux system administration.
+Python &ndash;
+R &ndash;
+C &ndash;
+Java &ndash;
+SQL &ndash;
+Hadoop &ndash;
+HTML &ndash;
+CSS &ndash;
+JavaScript &ndash;
+Git &ndash;
+LaTeX &ndash;
+GNU/Linux system administration.
 
 ## Employment
 
@@ -67,7 +77,7 @@ HTML &ndash; CSS &ndash; JavaScript &ndash; LaTeX &ndash; GNU/Linux system admin
       optimizing the user interaction in a configuration process.
     * Developed techniques to improve the performance of search
       heuristics on multimodal optimization problems.
-    * Wrote scientific software in and MATLAB/Octave, R,
+    * Wrote scientific software in MATLAB/Octave, R,
       and Python (using NumPy, pandas, and SciPy).
     * Acted as teaching assistant for the courses AP/ITEC 1620
       Object-Based Programming (four sessions), AP/ITEC 2620
