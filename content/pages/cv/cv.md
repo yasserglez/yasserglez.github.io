@@ -87,6 +87,9 @@ HTML &ndash; CSS &ndash; JavaScript &ndash; LaTeX &ndash; GNU/Linux system admin
 
 ## Selected Publications
 
+* Y. Gonzalez-Fernandez, S. Chen. (2015).
+  [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](http://dx.doi.org/10.1109/CEC.2015.7256970).
+  In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
 * Y. Gonzalez-Fernandez, M. Soto. (2014).
   [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
   *Journal of Statistical Software*, 58(9), 1&ndash;34.

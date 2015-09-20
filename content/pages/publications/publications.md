@@ -24,6 +24,9 @@ profiles.
 
 ## Conference Proceedings
 
+* Y. Gonzalez-Fernandez, S. Chen. (2015).
+  [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](http://dx.doi.org/10.1109/CEC.2015.7256970).
+  In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
 * Y. Gonzalez-Fernandez, S. Chen. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
   In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
