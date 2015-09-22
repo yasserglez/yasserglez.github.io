@@ -52,21 +52,6 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       Systems, Software Engineering, Computer Networks, Artificial
       Intelligence, Information Retrieval Systems, among others.
 
-## Technologies
-
-Python &ndash;
-R &ndash;
-C &ndash;
-Java &ndash;
-SQL &ndash;
-Hadoop &ndash;
-HTML &ndash;
-CSS &ndash;
-JavaScript &ndash;
-Git &ndash;
-LaTeX &ndash;
-GNU/Linux system administration.
-
 ## Employment
 
 2013&ndash;2015
@@ -77,12 +62,12 @@ GNU/Linux system administration.
       optimizing the user interaction in a configuration process.
     * Developed techniques to improve the performance of search
       heuristics on multimodal optimization problems.
-    * Wrote scientific software in MATLAB/Octave, R,
-      and Python (using NumPy, pandas, and SciPy).
-    * Acted as teaching assistant for the courses AP/ITEC 1620
-      Object-Based Programming (four sessions), AP/ITEC 2620
-      Introduction to Data Structures (one session), and AP/ITEC 1000
-      Introduction to Information Technologies (one session).
+    * Wrote scientific software in Python (using NumPy, pandas,
+      and SciPy), R, and MATLAB/Octave.
+    * Teaching assistant for the courses ITEC 1620 Object-Based
+      Programming (four sessions), ITEC 2620 Introduction to Data
+      Structures (one session), and ITEC 1000 Introduction to
+      Information Technologies (one session).
 
 2011&ndash;2013
 :   **Research Assistant.**<br>
@@ -90,27 +75,24 @@ GNU/Linux system administration.
 
     * Developed new estimation of distribution algorithms (EDAs) using
       copulas and vines to model the probability distributions.
-    * Wrote scientific software in MATLAB/Octave, a group of R
-      packages available on CRAN, and a C library for dependence
-      modeling using vines.
+    * Created a group of R packages available on CRAN, and a C library
+      for dependence modeling using vines.
     * Co-supervised a bachelor's thesis in Computer Science.
 
-## Selected Publications
+## Technologies
 
-* Y. Gonzalez-Fernandez, S. Chen. (2015).
-  [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](http://dx.doi.org/10.1109/CEC.2015.7256970).
-  In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
-* Y. Gonzalez-Fernandez, M. Soto. (2014).
-  [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
-  *Journal of Statistical Software*, 58(9), 1&ndash;34.
-* Y. Gonzalez-Fernandez, S. Chen. (2014).
-  [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
-  In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
-* Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
-  [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
-  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
-
-For more information, please see the [publications](/publications/) page.
+Python &ndash;
+R &ndash;
+C &ndash;
+Java &ndash;
+HTML &ndash;
+CSS &ndash;
+JavaScript &ndash;
+SQL &ndash;
+Hadoop &ndash;
+Git &ndash;
+LaTeX &ndash;
+GNU/Linux system administration.
 
 ## Selected Open-Source Software
 
@@ -130,3 +112,20 @@ For more information, please see the [publications](/publications/) page.
   modeling using C-vines, D-vines and R-vines.
 
 For more information, please see the [software](/software/) page.
+
+## Selected Publications
+
+* Y. Gonzalez-Fernandez, S. Chen. (2015).
+  [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](http://dx.doi.org/10.1109/CEC.2015.7256970).
+  In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
+* Y. Gonzalez-Fernandez, M. Soto. (2014).
+  [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
+  *Journal of Statistical Software*, 58(9), 1&ndash;34.
+* Y. Gonzalez-Fernandez, S. Chen. (2014).
+  [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
+  In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
+* Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
+  [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
+  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
+
+For more information, please see the [publications](/publications/) page.
