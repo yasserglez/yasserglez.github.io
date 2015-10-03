@@ -112,6 +112,9 @@ For more information, please see the [software](/software/) page.
 * Y. Gonzalez-Fernandez, S. Chen. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
   In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
+* M. Soto, A. Ochoa, Y. Gonzalez-Fernandez, Y. Milanés, A. Álvarez, D. Carrera, and E. Moreno. (2012).
+  [Vine Estimation of Distribution Algorithms with Application to Molecular Docking](http://link.springer.com/chapter/10.1007/978-3-642-28900-2_13).
+  In S. Shakya and R. Santana (eds.), *Markov Networks in Evolutionary Computation*, 209&ndash;225. Springer.
 * Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
   [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
   In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
