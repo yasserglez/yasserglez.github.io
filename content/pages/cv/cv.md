@@ -12,32 +12,21 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
     York University, Canada.
 
     * *Thesis:* [Efficient Calculation of Optimal Configuration Processes](../publications/master-thesis.pdf).
-    * *Courses:* Advanced Topics in Information Technology &ndash; Mining
-      of Massive Datasets, Advanced Information Retrieval Systems,
-      Introduction to Computational Linguistics, Software Product
-      Lines, Research Methods in Information Technology.
+    * *Relevant Courses:*
+      Mining of Massive Datasets,
+      Advanced Information Retrieval Systems,
+      Introduction to Computational Linguistics.
 
 2014&ndash;2015
 :   **Data Science Specialization.**<br>
     A non-credit series offered by Johns Hopkins University through Coursera.
 
-    * *Courses:*
-      [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/records/ykQYDRkuykt9WWr7),
+    * *Relevant Courses:*
       [R Programming](https://www.coursera.org/account/accomplishments/records/x4KDhhWYxNj6HG2t),
       [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/QwWYwqU3D69XVpvd),
       [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/HuzbwazrhPCTHMrX),
-      [Reproducible Research](https://www.coursera.org/account/accomplishments/records/bKEWmfsmU6pfA2V6),
       [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3),
       [Regression Models](https://www.coursera.org/account/accomplishments/records/rxtYL2Fs8eZDByKa).
-
-2011&ndash;2012
-:   **Graduate Coursework, Mathematics.**<br>
-    University of Havana, Cuba.
-
-    * *Courses:* Multivariate Statistics, Nonparametric Tests &ndash;
-      Methods Based on Ranks, Linear Models, Stochastic Simulation,
-      Linear & Integer Programming, Heuristic & Metaheuristics
-      Algorithms, Introduction to Parallel Computing.
 
 2006&ndash;2011
 :   **Bachelor's degree, Computer Science.**<br>
@@ -45,39 +34,16 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
     * *GPA:* 5.0/5.0 (Summa Cum Laude).
     * *Thesis:* [Estimation of Distribution Algorithms Based on Copulas and Vines](../publications/bachelor-thesis.pdf).
-    * *Courses:* Algebra, Mathematical Analysis,
-      Probability & Statistics, Discrete Mathematics, Theory of
-      Programming Languages, Design & Analysis of Algorithms, Compiler
-      Construction, Numerical Methods, Operating Systems, Database
-      Systems, Software Engineering, Computer Networks, Artificial
-      Intelligence, Information Retrieval Systems, among others.
-
-## Employment
-
-2013&ndash;2015
-:   **Research & Teaching Assistant.**<br>
-    York University, Canada.
-
-    * Designed different solution methods for the problem of
-      optimizing the user interaction in a configuration process.
-    * Developed techniques to improve the performance of search
-      heuristics on multimodal optimization problems.
-    * Wrote scientific software in Python (using NumPy, pandas,
-      and SciPy), R, and MATLAB/Octave.
-    * Teaching assistant for the courses ITEC 1620 Object-Based
-      Programming (four sessions), ITEC 2620 Introduction to Data
-      Structures (one session), and ITEC 1000 Introduction to
-      Information Technologies (one session).
-
-2011&ndash;2013
-:   **Research Assistant.**<br>
-    Institute of Cybernetics, Mathematics and Physics, Cuba.
-
-    * Developed new estimation of distribution algorithms (EDAs) using
-      copulas and vines to model the probability distributions.
-    * Created a group of R packages available on CRAN, and a C library
-      for dependence modeling using vines.
-    * Co-supervised a bachelor's thesis in Computer Science.
+    * *Relevant Courses:*
+      Linear Algebra,
+      Calculus,
+      Probability & Statistics,
+      Design & Analysis of Algorithms,
+      Operating Systems,
+      Computer Networks,
+      Database Systems,
+      Artificial Intelligence,
+      Information Retrieval Systems.
 
 ## Technologies
 
@@ -91,8 +57,30 @@ JavaScript &ndash;
 SQL &ndash;
 Hadoop &ndash;
 Git &ndash;
-LaTeX &ndash;
 GNU/Linux system administration.
+
+## Experience
+
+2013&ndash;2015
+:   **Research & Teaching Assistant.**<br>
+    York University, Canada.
+
+    * Designed different solution methods for the problem of
+      optimizing the user interaction in a configuration process.
+    * Developed techniques to improve the performance of search
+      heuristics on multimodal optimization problems.
+    * Programmed scientific software in Python (using NumPy, pandas,
+      and SciPy), R, and MATLAB/Octave.
+
+2011&ndash;2013
+:   **Research Assistant.**<br>
+    Institute of Cybernetics, Mathematics and Physics, Cuba.
+
+    * Created new estimation of distribution algorithms (EDAs) using
+      copulas and vines to model the probability distributions.
+    * Implemented a group of R packages available on CRAN,
+      and a C library for dependence modeling using vines.
+    * Co-supervised a bachelor's thesis in computer science.
 
 ## Selected Open-Source Software
 
