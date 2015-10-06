@@ -12,7 +12,7 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
     York University, Canada.
 
     * *Thesis:* [Efficient Calculation of Optimal Configuration Processes](../publications/master-thesis.pdf).
-    * *Relevant Courses:*
+    * *Selected Courses:*
       Mining of Massive Datasets,
       Advanced Information Retrieval Systems,
       Introduction to Computational Linguistics.
@@ -21,12 +21,13 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 :   **Data Science Specialization.**<br>
     A non-credit series offered by Johns Hopkins University through Coursera.
 
-    * *Relevant Courses:*
+    * *Selected Courses:*
       [R Programming](https://www.coursera.org/account/accomplishments/records/x4KDhhWYxNj6HG2t),
       [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/QwWYwqU3D69XVpvd),
       [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/HuzbwazrhPCTHMrX),
       [Statistical Inference](https://www.coursera.org/account/accomplishments/records/ukkXcF87sQJn27f3),
-      [Regression Models](https://www.coursera.org/account/accomplishments/records/rxtYL2Fs8eZDByKa).
+      [Regression Models](https://www.coursera.org/account/accomplishments/records/rxtYL2Fs8eZDByKa),
+      [Practical Machine Learning](https://www.coursera.org/account/accomplishments/records/ZpaYpr4TtJZTQFY9).
 
 2006&ndash;2011
 :   **Bachelor's degree, Computer Science.**<br>
@@ -34,7 +35,7 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
     * *GPA:* 5.0/5.0 (Summa Cum Laude).
     * *Thesis:* [Estimation of Distribution Algorithms Based on Copulas and Vines](../publications/bachelor-thesis.pdf).
-    * *Relevant Courses:*
+    * *Selected Courses:*
       Linear Algebra,
       Calculus,
       Probability & Statistics,
