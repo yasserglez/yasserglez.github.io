@@ -41,7 +41,7 @@ Most of the code is available on my
 * [pyenscript](https://github.com/yasserglez/pyenscript) &ndash; A simple
   Python wrapper for the Evernote ENScript.exe executable.
 
-I've also made smaller contributions to the following open-source projects.
+I've also made smaller contributions to the following projects.
 
 * [pymdptoolbox](https://github.com/sawcordwell/pymdptoolbox)
   &ndash; Markov decision process toolbox for Python.
