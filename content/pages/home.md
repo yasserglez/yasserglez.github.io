@@ -4,10 +4,9 @@ save_as: index.html
 I'm a computer scientist living in Toronto, Canada. I'm passionate
 about the design and implementation of algorithms to solve challenging
 problems and draw conclusions from data. I have a keen interest in
-data science &ndash; including the areas of optimization, machine
-learning, and natural language processing. I love working with
-open-source technologies, started 10 years ago and haven't stopped
-since then.
+data science &ndash; especially in optimization and machine learning.
+I love working with open-source technologies, started 10 years ago and
+haven't stopped since then.
 
 I have a bachelor's degree in Computer Science and a master's in
 Information Systems & Technology. I've worked as research assistant at

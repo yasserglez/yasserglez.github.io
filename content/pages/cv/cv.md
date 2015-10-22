@@ -46,20 +46,6 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       Artificial Intelligence,
       Information Retrieval Systems.
 
-## Technologies
-
-Python &ndash;
-R &ndash;
-C &ndash;
-Java &ndash;
-HTML &ndash;
-CSS &ndash;
-JavaScript &ndash;
-SQL &ndash;
-Hadoop &ndash;
-Git &ndash;
-GNU/Linux system administration.
-
 ## Experience
 
 2013&ndash;2015
