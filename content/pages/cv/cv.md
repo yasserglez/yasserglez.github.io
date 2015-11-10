@@ -56,18 +56,17 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       optimizing the user interaction in a configuration process.
     * Developed techniques to improve the performance of search
       heuristics on multimodal optimization problems.
-    * Programmed scientific software in Python (using NumPy, pandas,
+    * Implemented scientific software in Python (using NumPy, pandas,
       and SciPy), R, and MATLAB/Octave.
 
 2011&ndash;2013
 :   **Research Assistant.**<br>
     Institute of Cybernetics, Mathematics and Physics, Cuba.
 
-    * Created new estimation of distribution algorithms (EDAs) using
+    * Developed new estimation of distribution algorithms (EDAs) using
       copulas and vines to model the probability distributions.
     * Implemented a group of R packages available on CRAN,
       and a C library for dependence modeling using vines.
-    * Co-supervised a bachelor's thesis in computer science.
 
 ## Selected Open-Source Software
 
