@@ -5,6 +5,32 @@ You may also download
 [a PDF version]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Curriculum Vitae")
 or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
+## Experience
+
+2015&ndash;present
+:   <p>**Data Scientist.**<br>
+Canopy Labs, Canada.</p>
+
+2013&ndash;2015
+:   **Research & Teaching Assistant.**<br>
+    York University, Canada.
+
+    * Designed different solution methods for the problem of
+      optimizing the user interaction in a configuration process.
+    * Developed techniques to improve the performance of search
+      heuristics on multimodal optimization problems.
+    * Implemented scientific software in Python (using NumPy, pandas,
+      and SciPy), R, and MATLAB/Octave.
+
+2011&ndash;2013
+:   **Research Assistant.**<br>
+    Institute of Cybernetics, Mathematics and Physics, Cuba.
+
+    * Developed new estimation of distribution algorithms (EDAs) using
+      copulas and vines to model the probability distributions.
+    * Implemented a group of R packages available on CRAN,
+      and a C library for dependence modeling using vines.
+
 ## Education
 
 2013&ndash;2015
@@ -45,28 +71,6 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
       Database Systems,
       Artificial Intelligence,
       Information Retrieval Systems.
-
-## Experience
-
-2013&ndash;2015
-:   **Research & Teaching Assistant.**<br>
-    York University, Canada.
-
-    * Designed different solution methods for the problem of
-      optimizing the user interaction in a configuration process.
-    * Developed techniques to improve the performance of search
-      heuristics on multimodal optimization problems.
-    * Implemented scientific software in Python (using NumPy, pandas,
-      and SciPy), R, and MATLAB/Octave.
-
-2011&ndash;2013
-:   **Research Assistant.**<br>
-    Institute of Cybernetics, Mathematics and Physics, Cuba.
-
-    * Developed new estimation of distribution algorithms (EDAs) using
-      copulas and vines to model the probability distributions.
-    * Implemented a group of R packages available on CRAN,
-      and a C library for dependence modeling using vines.
 
 ## Selected Open-Source Software
 
