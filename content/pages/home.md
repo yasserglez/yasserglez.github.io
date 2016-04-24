@@ -8,11 +8,11 @@ technologies.
 
 I have a bachelor's degree in Computer Science and a master's degree
 in Information Systems & Technology. I work as a data scientist at
-Canopy Labs &ndash; a Toronto-based company helping businesses to
-track and optimize their customer journey. In the past I've worked as
-a research assistant at the Institute of Cybernetics, Mathematics and
-Physics in Cuba; and at York University in Canada &ndash; using mostly
-Python and R to solve different optimization-related problems.
+Canopy Labs &ndash; a predictive customer analytics company based in
+Toronto. In the past I've worked as a research assistant at the
+Institute of Cybernetics, Mathematics and Physics in Cuba; and at York
+University in Canada &ndash; using mostly Python and R to solve
+different optimization-related problems.
 
 You can read [my CV](cv/) for a list of publications, open-source
 software I have developed, and background information.
