@@ -1,8 +1,7 @@
 title: Open-Source Software
 
-This is a list of open-source software I've written or co-authored.
-Most of the code is available on my
-[GitHub](https://github.com/yasserglez) account.
+This is a list of open-source software projects I have worked on.
+You may also want to review my [GitHub](https://github.com/yasserglez) account.
 
 * [configurator](https://github.com/yasserglez/configurator) &ndash;
   Python package providing different solutions to the problem of
@@ -22,14 +21,14 @@ Most of the code is available on my
   Session and Competition on Real-Parameter Single Objective
   Optimization.
 * [ngram_profile](https://github.com/yasserglez/ngram_profile)
-  &ndash; Python library for text classification based on character n-grams.
+  &ndash; Simple Python library for text classification based on character n-grams.
 * [pagerank-hadoop](https://github.com/yasserglez/pagerank-hadoop)
   &ndash; PageRank implementation in Hadoop.
 * [dml](https://github.com/yasserglez/dml) &ndash; C library for dependence
   modeling using C-vines, D-vines and R-vines.
 * [diglib](https://github.com/yasserglez/diglib) &ndash; Personal digital
-  document management software written in Python and GTK.
-* [Arachne](https://github.com/yasserglez/arachne) &ndash; Search engine
+  document management software written in Python.
+* [Arachne](https://github.com/yasserglez/arachne) &ndash; A search engine
   for files shared via FTP and similar protocols.
 * [PyTiger2C](https://github.com/yasserglez/pytiger2c) &ndash; A compiler
   for the Tiger programming language written in Python.
@@ -41,7 +40,7 @@ Most of the code is available on my
 * [pyenscript](https://github.com/yasserglez/pyenscript) &ndash; A simple
   Python wrapper for the Evernote ENScript.exe executable.
 
-I've also made smaller contributions to the following projects.
+I have also made smaller contributions to the following projects.
 
 * [pymdptoolbox](https://github.com/sawcordwell/pymdptoolbox)
   &ndash; Markov decision process toolbox for Python.
