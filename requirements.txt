@@ -1,4 +1,5 @@
 pelican==3.6.0
+pycrypto==2.6.1
 Markdown==2.6.2
 typogrify==2.0.7
 git+https://github.com/miracle2k/webassets.git@9d051539f8
