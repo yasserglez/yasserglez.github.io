@@ -2,16 +2,16 @@ title: Hello, I'm Yasser
 save_as: index.html
 
 I'm passionate about the design and implementation of algorithms to
-solve challenging problems that demand building scalable predictive
+solve challenging problems that require building scalable predictive
 models and drawing conclusions from large datasets. I have a keen
 interest in data science and I'm enthusiastic about working with
 open-source technologies.
 
-Lately, I've been focusing on the development of recommender systems
+Lately I've been focusing on the development of recommender systems
 for various application domains &ndash; employing technologies such as
-Apache Spark with Python and Scala, Amazon EMR & S3, and MongoDB. I
-have a bachelor's degree in Computer Science and a master's degree in
-Information Systems & Technology with emphasis on applied mathematics.
+Apache Spark with Python and Scala, Amazon EMR & S3, and MongoDB.
+I have a bachelor's degree in Computer Science and a master's degree
+in Information Systems & Technology with emphasis on applied mathematics.
 
 I currently work as a data scientist at Canopy Labs, a predictive
 customer analytics company based in Toronto. In the past I've worked
