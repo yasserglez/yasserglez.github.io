@@ -1,7 +1,7 @@
 title: Open-Source Software
 
 This is a list of open-source software projects I have worked on.
-You may also want to review my [GitHub](https://github.com/yasserglez) account.
+Most of the code is available on my [GitHub](https://github.com/yasserglez) account.
 
 * [configurator](https://github.com/yasserglez/configurator) &ndash;
   Python package providing different solutions to the problem of
