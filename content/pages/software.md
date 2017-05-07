@@ -1,18 +1,17 @@
 title: Open-Source Software
 
 This is a list of open-source software projects I have worked on.
-Most of the code is available on my [GitHub](https://github.com/yasserglez) account.
+Most of the code is available on [my GitHub account](https://github.com/yasserglez).
 
 * [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package providing different solutions to the problem of
-  optimizing the user interaction in a configuration process.
+  Python package providing different methods for optimizing the user
+  interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
-* [vines](https://github.com/yasserglez/vines) &ndash; R implementation
-  of the vine graphical model for building high-dimensional
-  probability distributions as a factorization of bivariate copulas
-  and marginal density functions.
+* [vines](https://github.com/yasserglez/vines) &ndash; R
+  implementation of the vine graphical models for representing
+  high-dimensional probability distributions.
 * [cec2005benchmark](https://github.com/yasserglez/cec2005benchmark)
   &ndash; R wrapper for the C code of the 25 benchmark functions
   for the CEC 2005 Special Session on Real-Parameter Optimization.

@@ -2,21 +2,32 @@ title: Curriculum Vitae
 save_as: cv/index.html
 
 You may also download
-[a PDF version]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Curriculum Vitae")
+[a PDF version of my CV]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Curriculum Vitae")
 or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Experience
 
-2015&ndash;present
-:   <p>**Data Scientist.**<br>
+2017&ndash;present
+:   <p>**Senior Data Scientist.**<br>
 Canopy Labs, Canada.</p>
+
+2015&ndash;2017
+:   **Data Scientist.**<br>
+    Canopy Labs, Canada.
+
+    * Developed large-scale recommender systems for diverse
+      application domains &ndash; working from the definition of the
+      requirements and business metrics; to the design, implementation
+      and evaluation of the systems in production.
+    * Employed technologies such as Apache Spark with Python and Scala
+      running on Mesos and YARN, Amazon EMR & S3, and MongoDB.
 
 2013&ndash;2015
 :   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
-    * Designed different solution methods for the problem of
-      optimizing the user interaction in a configuration process.
+    * Designed and implemented different methods for optimizing the
+      user interaction in a configuration process.
     * Developed techniques to improve the performance of search
       heuristics on multimodal optimization problems.
     * Implemented scientific software in Python (using NumPy, pandas,
@@ -75,21 +86,20 @@ Canopy Labs, Canada.</p>
 ## Selected Open-Source Software
 
 * [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package providing different solutions to the problem of
-  optimizing the user interaction in a configuration process.
+  Python package providing different methods for optimizing the user
+  interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
-* [vines](https://github.com/yasserglez/vines) &ndash; R implementation
-  of the vine graphical model for building high-dimensional
-  probability distributions as a factorization of bivariate copulas
-  and marginal density functions.
+* [vines](https://github.com/yasserglez/vines) &ndash; R
+  implementation of the vine graphical models for representing
+  high-dimensional probability distributions.
 * [ngram_profile](https://github.com/yasserglez/ngram_profile)
   &ndash; Python library for text classification based on character n-grams.
 * [dml](https://github.com/yasserglez/dml) &ndash; C library for dependence
   modeling using C-vines, D-vines and R-vines.
 
-For more information, please see the [software](/software/) page.
+For more information, please see [the software page](/software/).
 
 ## Selected Publications
 
@@ -109,4 +119,4 @@ For more information, please see the [software](/software/) page.
   [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
   In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
 
-For more information, please see the [publications](/publications/) page.
+For more information, please see [the publications page](/publications/).
