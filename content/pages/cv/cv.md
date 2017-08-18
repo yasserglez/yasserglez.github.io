@@ -85,19 +85,15 @@ Canopy Labs, Canada.</p>
 
 ## Selected Open-Source Software
 
-* [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package providing different methods for optimizing the user
-  interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
 * [vines](https://github.com/yasserglez/vines) &ndash; R
   implementation of the vine graphical models for representing
   high-dimensional probability distributions.
-* [ngram_profile](https://github.com/yasserglez/ngram_profile)
-  &ndash; Python library for text classification based on character n-grams.
-* [dml](https://github.com/yasserglez/dml) &ndash; C library for dependence
-  modeling using C-vines, D-vines and R-vines.
+* [configurator](https://github.com/yasserglez/configurator) &ndash;
+  Python package providing different methods for optimizing the user
+  interaction in a configuration process.
 
 For more information, please see [the software page](/software/).
 
@@ -115,8 +111,5 @@ For more information, please see [the software page](/software/).
 * M. Soto, A. Ochoa, Y. Gonzalez-Fernandez, Y. Milanés, A. Álvarez, D. Carrera, and E. Moreno. (2012).
   [Vine Estimation of Distribution Algorithms with Application to Molecular Docking](http://link.springer.com/chapter/10.1007/978-3-642-28900-2_13).
   In S. Shakya and R. Santana (eds.), *Markov Networks in Evolutionary Computation*, 209&ndash;225. Springer.
-* Y. Gonzalez-Fernandez, D. Carrera, M. Soto, A. Ochoa. (2012).
-  [Vine Estimation of Distribution Algorithms](http://simd.albacete.org/maeb2012/papers/paper_99.pdf).
-  In *VIII Congreso Español sobre Metaheurísticas, Algoritmos Evolutivos y Bioinspirados*, 1&ndash;7.
 
 For more information, please see [the publications page](/publications/).
