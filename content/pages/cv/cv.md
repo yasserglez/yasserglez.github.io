@@ -16,11 +16,11 @@ Canopy Labs, Canada.</p>
     Canopy Labs, Canada.
 
     * Developed large-scale recommender systems for diverse
-      application domains &ndash; working from the definition of the
-      requirements and business metrics; to the design, implementation
-      and evaluation of the systems in production.
-    * Employed technologies such as Apache Spark with Python and Scala
-      running on Mesos and YARN, Amazon EMR & S3, and MongoDB.
+      application domains -- participating in the definition of the
+      requirements and business metrics as well as the design,
+      implementation and evaluation of the systems in production.
+    * Employed technologies such as Spark with Python and Scala
+      running on Mesos and YARN, Amazon EMR & S3 and MongoDB.
 
 2013&ndash;2015
 :   **Research & Teaching Assistant.**<br>
@@ -30,8 +30,8 @@ Canopy Labs, Canada.</p>
       user interaction in a configuration process.
     * Developed techniques to improve the performance of search
       heuristics on multimodal optimization problems.
-    * Implemented scientific software in Python (using NumPy, pandas,
-      and SciPy), R, and MATLAB/Octave.
+    * Implemented scientific software in Python (using NumPy, pandas
+      and SciPy), R and MATLAB/Octave.
 
 2011&ndash;2013
 :   **Research Assistant.**<br>
