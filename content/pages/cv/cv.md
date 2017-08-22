@@ -26,9 +26,9 @@ Canopy Labs, Canada.</p>
 :   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
-    * Designed and implemented different methods for optimizing the
-      user interaction in a configuration process.
-    * Developed techniques to improve the performance of search
+    * Designed and implemented reinforcement learning techniques to
+      optimize the user interaction in a configuration process.
+    * Developed methodologies to improve the performance of search
       heuristics on multimodal optimization problems.
     * Implemented scientific software in Python (using NumPy, pandas
       and SciPy), R and MATLAB/Octave.
