@@ -85,7 +85,7 @@ SUMMARY_MAX_LENGTH = 25
 
 # Plugins
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['assets', 'related_posts', 'render_math']
 
 ASSET_SOURCE_PATHS = ['assets']

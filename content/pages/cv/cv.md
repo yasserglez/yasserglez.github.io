@@ -8,8 +8,15 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 ## Experience
 
 2017&ndash;present
-:   <p>**Senior Data Scientist.**<br>
-Canopy Labs, Canada.</p>
+:   **Senior Data Scientist.**<br>
+    Canopy Labs, Canada.
+
+    * Leading the development of personalization algorithms such as
+      recommender systems and propensity models for marketing -- using
+      technologies such as Spark, PyTorch, Keras, TensorFlow,
+      scikit-learn, xgboost, Python and Scala.
+    * Researching the applications of deep learning and recurrent
+      neural networks for predictive customer analytics.
 
 2015&ndash;2017
 :   **Data Scientist.**<br>
@@ -85,15 +92,17 @@ Canopy Labs, Canada.</p>
 
 ## Selected Open-Source Software
 
+* [kaggle](https://github.com/yasserglez/kaggle) &ndash;
+  Code used in Kaggle competitions.
+* [configurator](https://github.com/yasserglez/configurator) &ndash;
+  Python package implementing different reinforcement learning methods
+  for optimizing the user interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
 * [vines](https://github.com/yasserglez/vines) &ndash; R
   implementation of the vine graphical models for representing
   high-dimensional probability distributions.
-* [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package providing different methods for optimizing the user
-  interaction in a configuration process.
 
 For more information, please see [the software page](/software/).
 

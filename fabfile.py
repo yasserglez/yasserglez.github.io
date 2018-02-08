@@ -17,6 +17,8 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build():
+    if not os.path.isdir('pelican-plugins'):
+        local('git clone --recursive https://github.com/getpelican/pelican-plugins')
     local('pelican -s develop_conf.py')
 
 def rebuild():

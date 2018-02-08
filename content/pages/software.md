@@ -4,15 +4,17 @@ This is a list of publicly available software I've developed myself or
 co-authored. Most of the code is available
 on [my GitHub account](https://github.com/yasserglez).
 
+* [kaggle](https://github.com/yasserglez/kaggle) &ndash;
+  Code used in Kaggle competitions.
+* [configurator](https://github.com/yasserglez/configurator) &ndash;
+  Python package implementing different reinforcement learning methods
+  for optimizing the user interaction in a configuration process.
 * [copulaedas](https://github.com/yasserglez/copulaedas)
   &ndash; R package for implementing and studying estimation of
   distribution algorithms (EDAs) based on copulas.
 * [vines](https://github.com/yasserglez/vines) &ndash; R
   implementation of the vine graphical models for representing
   high-dimensional probability distributions.
-* [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package providing different methods for optimizing the user
-  interaction in a configuration process.
 * [cec2005benchmark](https://github.com/yasserglez/cec2005benchmark)
   &ndash; R wrapper for the C code of the 25 benchmark functions
   for the CEC 2005 Special Session on Real-Parameter Optimization.
@@ -30,20 +32,3 @@ on [my GitHub account](https://github.com/yasserglez).
   document management software written in Python.
 * [Arachne](https://github.com/yasserglez/arachne) &ndash; A search engine
   for files shared via FTP and similar protocols.
-* [PyTiger2C](https://github.com/yasserglez/pytiger2c) &ndash; A compiler
-  for the Tiger programming language written in Python.
-* [lr4ir-matlab](https://github.com/yasserglez/lr4ir-matlab)
-  &ndash; MATLAB project for research on learning to rank for
-  information retrieval.
-* [metaheuristics](https://github.com/yasserglez/metaheuristics)
-  &ndash; Implementation of a group of metaheuristics in C#.
-* [pyenscript](https://github.com/yasserglez/pyenscript) &ndash; A simple
-  Python wrapper for the Evernote ENScript.exe executable.
-
-I have also made smaller contributions to the following projects.
-
-* [pymdptoolbox](https://github.com/sawcordwell/pymdptoolbox)
-  &ndash; Markov decision process toolbox for Python.
-* [pyeasyga](https://github.com/remiomosowon/pyeasyga)
-  &ndash; A simple and easy-to-use genetic algorithm library in Python.
-* [httr](https://github.com/hadley/httr) &ndash; a friendly HTTP package for R.
