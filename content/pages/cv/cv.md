@@ -7,15 +7,19 @@ or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
 
 ## Experience
 
-2017&ndash;present
+2018&ndash;present
+:   **Research Scientist.**<br>
+    Amazon, Canada.
+<br>
+2017&ndash;2018
 :   **Senior Data Scientist.**<br>
     Canopy Labs, Canada.
 
-    * Leading the development of personalization algorithms such as
-      recommender systems and propensity models for marketing -- using
-      technologies such as Spark, PyTorch, Keras, TensorFlow,
+    * Led the development of personalization algorithms such as
+      recommender systems and propensity models for marketing
+      using technologies such as Spark, PyTorch, Keras, TensorFlow,
       scikit-learn, xgboost, Python and Scala.
-    * Researching the applications of deep learning and recurrent
+    * Researched the applications of deep learning and recurrent
       neural networks for predictive customer analytics.
 
 2015&ndash;2017
