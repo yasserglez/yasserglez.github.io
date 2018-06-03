@@ -9,7 +9,7 @@ learning, natural language processing, reinforcement learning,
 optimization, evolutionary computation, and recommender systems.
 
 I work as a research scientist on
-[Amazon Alexa](https://en.wikipedia.org/wiki/Amazon_Alexa)
+[Amazon Alexa](https://developer.amazon.com/alexa/science)
 in Toronto. Previously, I was a data scientist at
 [Canopy Labs](https://canopylabs.com/) exploring the applications of
 deep learning for customer analytics and developing recommender
