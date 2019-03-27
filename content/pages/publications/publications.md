@@ -5,6 +5,9 @@ This is a list of my academic publications.
 
 ## Journal Articles & Book Chapters
 
+* Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos. (2019).
+  [Efficient Elicitation of Software Configurations Using Crowd Preferences and Domain Knowledge](https://link.springer.com/article/10.1007/s10515-018-0247-4).
+  *Automated Software Engineering*, 26(1), 87&ndash;123.
 * S. Chen, J. Montgomery, A. Bolufé-Röhler, Y. Gonzalez-Fernandez. (2015).
   [A Review of Thresheld Convergence](http://www.upo.es/revistas/index.php/gecontec/article/download/1410/pdf_15).
   *GECONTEC: Revista Internacional de Gestión del Conocimiento y la Tecnología*, 3(1), 1&ndash;13.

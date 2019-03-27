@@ -112,17 +112,17 @@ For more information, please see [the software page](/software/).
 
 ## Selected Publications
 
+* Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos. (2019).
+  [Efficient Elicitation of Software Configurations Using Crowd Preferences and Domain Knowledge](https://link.springer.com/article/10.1007/s10515-018-0247-4).
+  *Automated Software Engineering*, 26(1), 87&ndash;123.
 * Y. Gonzalez-Fernandez, S. Chen. (2015).
   [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](http://dx.doi.org/10.1109/CEC.2015.7256970).
   In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
-* Y. Gonzalez-Fernandez, M. Soto. (2014).
-  [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
-  *Journal of Statistical Software*, 58(9), 1&ndash;34.
 * Y. Gonzalez-Fernandez, S. Chen. (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](http://doi.acm.org/10.1145/2576768.2598280).
   In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
-* M. Soto, A. Ochoa, Y. Gonzalez-Fernandez, Y. Milanés, A. Álvarez, D. Carrera, and E. Moreno. (2012).
-  [Vine Estimation of Distribution Algorithms with Application to Molecular Docking](http://link.springer.com/chapter/10.1007/978-3-642-28900-2_13).
-  In S. Shakya and R. Santana (eds.), *Markov Networks in Evolutionary Computation*, 209&ndash;225. Springer.
+* Y. Gonzalez-Fernandez, M. Soto. (2014).
+  [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](http://www.jstatsoft.org/v58/i09/paper).
+  *Journal of Statistical Software*, 58(9), 1&ndash;34.
 
 For more information, please see [the publications page](/publications/).
