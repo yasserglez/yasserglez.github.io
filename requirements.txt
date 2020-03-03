@@ -1,9 +1,8 @@
-pelican==3.7.1
-pycrypto==2.6.1
-Markdown==2.6.2
-typogrify==2.0.7
+invoke
+pelican
+Markdown
+typogrify
+libsass
+yuicompressor
+git+https://github.com/davisp/ghp-import
 git+https://github.com/miracle2k/webassets.git
-libsass==0.8.2
-yuicompressor==2.4.8
-Fabric==1.10.2
-git+https://github.com/davisp/ghp-import@40f0718c67
