@@ -12,7 +12,7 @@ DEPLOY_PATH = Path('output').resolve()
 
 @task
 def clean(c):
-    if deploy_path.is_dir():
+    if DEPLOY_PATH.is_dir():
         c.run(f'rm -rf {DEPLOY_PATH}')
         c.run(f'mkdir {DEPLOY_PATH}')
 

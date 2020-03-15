@@ -1,23 +1,22 @@
-title: Hello
+title: Hello, I'm Yasser
 save_as: index.html
 
-My name is Yasser. I am passionate about solving challenging problems
-using machine learning. My main interests are in areas of artificial
-intelligence and machine learning such as deep learning, natural
-language processing, reinforcement learning, optimization,
-evolutionary computation and recommender systems.
+I like solving challenging problems using machine learning. More
+specifically, I'm interested in practical applications of AI and
+machine learning related to deep learning, natural language
+processing, recommender systems, optimization, reinforcement learning,
+and evolutionary computation.
 
-I work as a research scientist at
-[Amazon Alexa](https://developer.amazon.com/alexa/science)
-in Toronto. Previously, I was a data scientist at
-[Canopy Labs](https://canopylabs.com/) exploring the applications of
-deep learning for customer analytics and developing recommender
-systems for various domains. I have a bachelor's degree in computer
-science and a master's degree in information systems & technology with
-an emphasis on mathematical optimization.
+Currently, I work at Amazon as a research scientist on natural language
+understanding and entity resolution in [Alexa](https://developer.amazon.com/alexa/science).
+Previously, I was a data scientist at [Canopy Labs](https://canopylabs.com/)
+where I built recommender systems and customer propensity models for
+different industries such as online retail and travel. I have a bachelor's
+degree in computer science and a master's degree with an emphasis on
+mathematical optimization.
 
-Please see [my CV](cv/) for a list of publications, publicly available
-software that I have developed, and additional background information.
+Please see [my resume](resume/) for a list of publications, open
+source software, and additional background information.
 
 ## Contact
 

@@ -1,8 +1,6 @@
 title: Publications
 save_as: publications/index.html
 
-This is a list of my academic publications.
-
 ## Journal Articles & Book Chapters
 
 * Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos. (2019).

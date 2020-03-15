@@ -28,7 +28,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     # Uncomment to enable the blog:
     # ('Blog', '/blog/'),
-    ('CV / Resume', '/cv/'),
+    ('Resume', '/resume/'),
     ('Publications', '/publications/'),
     ('Software', '/software/'),
 ]

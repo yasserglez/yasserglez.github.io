@@ -1,46 +1,47 @@
-title: Curriculum Vitae
-save_as: cv/index.html
+title: Resume
+save_as: resume/index.html
 
 You may also download
-[a PDF version of my CV]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Curriculum Vitae")
-or view my [LinkedIn](https://linkedin.com/in/yasserglez) profile.
+[a PDF version]({attach}yasser_gonzalez.pdf "Yasser Gonzalez — Resume")
+or view [my LinkedIn profile](https://linkedin.com/in/yasserglez).
 
 ## Experience
 
 2018&ndash;present
 :   **Research Scientist.**<br>
     Amazon, Canada.
-<br>
+
+    * Working on natural language understanding and entity resolution in Alexa.
+
 2017&ndash;2018
 :   **Senior Data Scientist.**<br>
     Canopy Labs, Canada.
 
-    * Led the development of personalization algorithms such as
-      recommender systems and propensity models for marketing
-      using technologies such as Spark, PyTorch, Keras, TensorFlow,
-      scikit-learn, xgboost, Python and Scala.
-    * Researched the applications of deep learning and recurrent
-      neural networks for predictive customer analytics.
+    * Led the development of recommender systems and customer
+      propensity models using technologies such as Spark, PyTorch,
+      Keras, TensorFlow, scikit-learn, and xgboost.
+    * Built recurrent neural networks for predictive customer analytics
+      based on the customer's historical sequence of actions.
 
 2015&ndash;2017
 :   **Data Scientist.**<br>
     Canopy Labs, Canada.
 
-    * Developed large-scale recommender systems for diverse
-      application domains -- participating in the definition of the
-      requirements and business metrics as well as the design,
-      implementation and evaluation of the systems in production.
-    * Employed technologies such as Spark with Python and Scala
-      running on Mesos and YARN, Amazon EMR & S3 and MongoDB.
+    * Developed large-scale recommender systems for different industries
+      such as online retail and travel. Participated in the definition
+      of the business metrics as well as the design, implementation
+      and evaluation of the systems in production.
+    * Used technologies such as Spark (with Python and Scala),
+      Mesos, YARN, Amazon EMR, S3, and MongoDB.
 
 2013&ndash;2015
 :   **Research & Teaching Assistant.**<br>
     York University, Canada.
 
     * Designed and implemented reinforcement learning techniques to
-      optimize the user interaction in a configuration process.
-    * Developed methodologies to improve the performance of search
-      heuristics on multimodal optimization problems.
+      optimize the user interaction in configuration processes.
+    * Proposed methodologies to improve search heuristics on
+      multimodal optimization problems.
     * Implemented scientific software in Python (using NumPy, pandas
       and SciPy), R and MATLAB/Octave.
 

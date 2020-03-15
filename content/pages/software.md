@@ -1,8 +1,6 @@
 title: Open-Source Software
 
-This is a list of publicly available software I've developed myself or
-co-authored. Most of the code is available
-on [my GitHub account](https://github.com/yasserglez).
+You may also view [my GitHub account](https://github.com/yasserglez).
 
 * [kaggle](https://github.com/yasserglez/kaggle) &ndash;
   Code used in Kaggle competitions.
