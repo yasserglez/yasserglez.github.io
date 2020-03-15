@@ -18,8 +18,8 @@ or view [my LinkedIn profile](https://linkedin.com/in/yasserglez).
     Canopy Labs, Canada.
 
     * Led the development of recommender systems and customer
-      propensity models using technologies such as Spark, PyTorch,
-      Keras, TensorFlow, scikit-learn, and xgboost.
+      propensity models using Spark, PyTorch, Keras, TensorFlow,
+      scikit-learn, and xgboost.
     * Built recurrent neural networks for predictive customer analytics
       based on the customer's historical sequence of actions.
 
