@@ -95,22 +95,6 @@ or view [my LinkedIn profile](https://linkedin.com/in/yasserglez).
       Artificial Intelligence,
       Information Retrieval Systems.
 
-## Selected Open-Source Software
-
-* [kaggle](https://github.com/yasserglez/kaggle) &ndash;
-  Code used in Kaggle competitions.
-* [configurator](https://github.com/yasserglez/configurator) &ndash;
-  Python package implementing different reinforcement learning methods
-  for optimizing the user interaction in a configuration process.
-* [copulaedas](https://github.com/yasserglez/copulaedas)
-  &ndash; R package for implementing and studying estimation of
-  distribution algorithms (EDAs) based on copulas.
-* [vines](https://github.com/yasserglez/vines) &ndash; R
-  implementation of the vine graphical models for representing
-  high-dimensional probability distributions.
-
-For more information, please see [the software page](/software/).
-
 ## Selected Publications
 
 * Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos. (2019).
@@ -127,3 +111,19 @@ For more information, please see [the software page](/software/).
   *Journal of Statistical Software*, 58(9), 1&ndash;34.
 
 For more information, please see [the publications page](/publications/).
+
+## Selected Open-Source Software
+
+* [kaggle](https://github.com/yasserglez/kaggle) &ndash;
+  Code used in Kaggle competitions.
+* [configurator](https://github.com/yasserglez/configurator) &ndash;
+  Python package implementing different reinforcement learning methods
+  for optimizing the user interaction in a configuration process.
+* [copulaedas](https://github.com/yasserglez/copulaedas)
+  &ndash; R package for implementing and studying estimation of
+  distribution algorithms (EDAs) based on copulas.
+* [vines](https://github.com/yasserglez/vines) &ndash; R
+  implementation of the vine graphical models for representing
+  high-dimensional probability distributions.
+
+For more information, please see [the software page](/software/).
