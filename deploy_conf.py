@@ -9,5 +9,5 @@ import sys
 sys.path.append(os.curdir)
 from develop_conf import *
 
-SITEURL = 'http://yassergonzalez.com'
+SITEURL = 'https://yassergonzalez.com'
 FEED_DOMAIN = SITEURL
