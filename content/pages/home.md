@@ -1,13 +1,13 @@
-title: Hello, I'm Yasser
+title: Hi, I'm Yasser.
 save_as: index.html
 
-I like solving challenging problems using machine learning. More
-specifically, I'm interested in practical applications of AI and
+I like solving challenging problems using machine learning.
+More specifically, I am interested in practical applications of AI and
 machine learning related to deep learning, natural language
 processing, recommender systems, optimization, reinforcement learning,
 and evolutionary computation.
 
-Currently, I work at Amazon as a research scientist on natural language
+I work at Amazon as a research scientist on natural language
 understanding and entity resolution in [Alexa](https://developer.amazon.com/alexa/science).
 Previously, I was a data scientist at [Canopy Labs](https://canopylabs.com/)
 where I built recommender systems and customer propensity models for
