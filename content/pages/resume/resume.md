@@ -97,16 +97,16 @@ or view [my LinkedIn profile](https://linkedin.com/in/yasserglez).
 
 ## Selected Publications
 
-* Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos. (2019).
+* Y. Gonzalez-Fernandez, S. Hamidi, S. Chen, S. Liaskos (2019).
   [Efficient Elicitation of Software Configurations Using Crowd Preferences and Domain Knowledge](https://link.springer.com/article/10.1007/s10515-018-0247-4).
   *Automated Software Engineering*, 26(1), 87&ndash;123.
-* Y. Gonzalez-Fernandez, S. Chen. (2015).
+* Y. Gonzalez-Fernandez, S. Chen (2015).
   [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](https://dx.doi.org/10.1109/CEC.2015.7256970).
   In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
-* Y. Gonzalez-Fernandez, S. Chen. (2014).
+* Y. Gonzalez-Fernandez, S. Chen (2014).
   [Identifying and Exploiting the Scale of a Search Space in Particle Swarm Optimization](https://doi.acm.org/10.1145/2576768.2598280).
   In *Conference on Genetic and Evolutionary Computation*, 17&ndash;24. ACM.
-* Y. Gonzalez-Fernandez, M. Soto. (2014).
+* Y. Gonzalez-Fernandez, M. Soto (2014).
   [copulaedas: An R Package for Estimation of Distribution Algorithms Based on Copulas](https://www.jstatsoft.org/v58/i09/paper).
   *Journal of Statistical Software*, 58(9), 1&ndash;34.
 
