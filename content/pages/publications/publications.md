@@ -21,6 +21,9 @@ save_as: publications/index.html
 
 ## Conference Proceedings
 
+* S. Chen, I. Abdulselam, N. Yadollahpour, Y. Gonzalez-Fernandez. (2020)
+  [Particle Swarm optimization with pbest Perturbations](https://ieeexplore.ieee.org/abstract/document/9185801).
+  In *IEEE Congress on Evolutionary Computation*, 1&ndash;8. IEEE.
 * Y. Gonzalez-Fernandez, S. Chen. (2015).
   [Leaders and Followers &ndash; A New Metaheuristic to Avoid the Bias of Accumulated Information](https://dx.doi.org/10.1109/CEC.2015.7256970).
   In *IEEE Congress on Evolutionary Computation*, 776&ndash;783. IEEE.
