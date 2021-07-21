@@ -28,9 +28,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     # Uncomment to enable the blog:
     # ('Blog', '/blog/'),
-    ('Resume', '/resume/'),
+    ('About', '/'),
     ('Publications', '/publications/'),
     ('Software', '/software/'),
+    ('Resume', '/resume/yasser_gonzalez.pdf'),
 ]
 
 # Disable everything else
