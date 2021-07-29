@@ -40,7 +40,7 @@ def deploy(c):
     clean(c)
     c.run('pelican -s deploy_conf.py')
     c.run(f'mv {DEPLOY_PATH}/theme/favicon.ico {DEPLOY_PATH}')
-    c.run(f'mv {DEPLOY_PATH}/theme/favicon-152.png {DEPLOY_PATH}')
+    c.run(f'mv {DEPLOY_PATH}/theme/favicon-180.png {DEPLOY_PATH}')
     c.run(f'mv {DEPLOY_PATH}/theme/CNAME {DEPLOY_PATH}')
     c.run(f"ghp-import -b master -m 'Commit by ghp-import' {DEPLOY_PATH}")
     c.run('git push --force github master')
