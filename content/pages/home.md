@@ -7,7 +7,7 @@ applications of AI and machine learning related to ranking and
 information retrieval, natural language processing, recommender
 systems, and mathematical optimization.
 
-I work at Amazon as a research scientist on natural language
+I work at Amazon as an applied scientist on natural language
 understanding and entity resolution in [Alexa](https://developer.amazon.com/alexa/science).
 Previously, I was a data scientist at [Canopy Labs](https://canopylabs.com/)
 where I built recommender systems and customer propensity models for
