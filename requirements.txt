@@ -1,8 +1,9 @@
 invoke
-pelican
+pelican[markdown]
 Markdown
 typogrify
 libsass
-yuicompressor
+cssmin
+closure
 git+https://github.com/davisp/ghp-import
 git+https://github.com/miracle2k/webassets.git
