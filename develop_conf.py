@@ -30,7 +30,6 @@ MENUITEMS = [
     # ('Blog', '/blog/'),
     ('About', '/'),
     ('Publications', '/publications/'),
-    ('Software', '/software/'),
     ('Resume', '/resume/yasser_gonzalez.pdf'),
 ]
 
