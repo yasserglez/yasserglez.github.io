@@ -1,16 +1,18 @@
 title: Hello
 save_as: index.html
 
-My name is Yasser Gonzalez. I'm passionate about solving practical problems
-using machine learning. In particular, I'm interested in applications of artificial
-intelligence and machine learning related to ranking and information retrieval,
-natural language processing, recommender systems, and mathematical optimization.
+I’m passionate about solving practical problems using machine learning
+at scale. In particular, I’m interested in applications related to
+information retrieval and ranking, recommender systems, representation
+learning, natural language processing, and optimization.
 
-I work at Shopify as a data scientist on the [Shop](https://www.shopify.com/shop) team.
-Previously, I worked at Amazon as an applied scientist on natural language understanding
-and entity resolution in [Alexa](https://developer.amazon.com/alexa/science); and as a
-data scientist at [Canopy Labs](https://canopylabs.com/) where I built recommender systems
-and customer propensity models for multiple industries such as online retail and travel.
+I work at Shopify as a staff machine learning engineer building
+large-scale recommendation systems for [Shop](https://shop.app/).
+Prior to Shopify, I was an applied scientist at Amazon working on
+natural language understanding and entity resolution in
+[Alexa](https://www.amazon.science/tag/alexa); and a data scientist at
+[Canopy Labs](https://betakit.com/drop-acquires-predictive-analytics-company-canopy-labs/)
+where I built recommender systems for online retail and travel companies.
 
 [View my resume](/resume/yasser_gonzalez.pdf) for more information.
 
