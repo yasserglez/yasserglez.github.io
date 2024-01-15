@@ -6,11 +6,11 @@ problems. In particular, I'm interested in applications of recommender
 systems, search and information retrieval, ranking, representation
 learning, and natural language processing.
 
-I work at Shopify as a staff machine learning engineer building
+I work at Shopify as a Staff Machine Learning Engineer building
 large-scale recommender systems for [Shop](https://shop.app/).
-Prior to Shopify, I was an applied scientist at Amazon working on
+Prior to Shopify, I was an Applied Scientist at Amazon working on
 natural language understanding and entity resolution in
-[Alexa](https://www.amazon.science/tag/alexa); and a data scientist at
+[Alexa](https://www.amazon.science/tag/alexa); and a Data Scientist at
 [Canopy Labs](https://betakit.com/drop-acquires-predictive-analytics-company-canopy-labs/)
 where I built recommender systems and other predictive models for
 different industries such as retail and travel.
